@@ -1,0 +1,1935 @@
+开始自动混淆项目代码扫描文件中。。。。。。
+
+
+混淆项目路径：/Users/a0000/Desktop/whc_clone_directory/EPEmtionPlay
+新文件 <-> 现有文件 : LaunchScreen.storyboard      LaunchScreen.storyboard
+新文件 <-> 现有文件 : Main.storyboard      Main.storyboard
+新文件 <-> 现有文件 : EPShopListController.swift      ViewController.swift
+新文件 <-> 现有文件 : EPReportController.swift      EP_WelcomeVC.swift
+新文件 <-> 现有文件 : EPGroupController.swift      EP_SetupVC.swift
+新文件 <-> 现有文件 : EPContactController.swift      EP_SetupInfoVC.swift
+新文件 <-> 现有文件 : EPModitySetupController.swift      EP_BadgeVC.swift
+新文件 <-> 现有文件 : EPWaitingView.swift      EP_BadgeEnergyRowView.swift
+新文件 <-> 现有文件 : EPFeedView.swift      EP_PersonHeaderView.swift
+新文件 <-> 现有文件 : EPSheetCell.swift      EP_ShopProductCell.swift
+新文件 <-> 现有文件 : EPReleaseMessageView.swift      EP_PersonMenuView.swift
+新文件 <-> 现有文件 : EPPostListView.swift      EP_BadgeProgressView.swift
+新文件 <-> 现有文件 : EPCurrentView.swift      EP_ProfileHeaderView.swift
+新文件 <-> 现有文件 : EPLocalCell.swift      EP_UserListCell.swift
+新文件 <-> 现有文件 : EPMediaDatabaseController.swift      EP_ShopVC.swift
+新文件 <-> 现有文件 : EPFriendsListController.swift      EP_ContactVC.swift
+新文件 <-> 现有文件 : EPDatabaseReleaseController.swift      EP_ProfileVC.swift
+新文件 <-> 现有文件 : EPSetupController.swift      EP_UserListVC.swift
+新文件 <-> 现有文件 : EPWelcomeScreenController.swift      EP_PersonVC.swift
+新文件 <-> 现有文件 : EPResourceController.swift      EP_SettingVC.swift
+新文件 <-> 现有文件 : EPBadgeDatabaseController.swift      EP_EditVC.swift
+新文件 <-> 现有文件 : EPBaseController.swift      EP_VideoVC.swift
+新文件 <-> 现有文件 : EPVoiceCell.swift      EP_HomeCell.swift
+新文件 <-> 现有文件 : EPFeedScreenView.swift      EP_HomeHeaderView.swift
+新文件 <-> 现有文件 : EPGroupBaseCell.swift      EP_ChallengeCell.swift
+新文件 <-> 现有文件 : EPHeaderController.swift      EP_ChallengeVC.swift
+新文件 <-> 现有文件 : EPNetworkPermissionController.swift      EP_HomeVC.swift
+新文件 <-> 现有文件 : EPSettingCell.swift      EP_PostFeedCell.swift
+新文件 <-> 现有文件 : EPModityInfoCell.swift      EP_GroupMessageCell.swift
+新文件 <-> 现有文件 : EPReleaseNewsCell.swift      EP_RoomCell.swift
+新文件 <-> 现有文件 : EPLoginCell.swift      EP_DetailCommentCell.swift
+新文件 <-> 现有文件 : EPDataVideoView.swift      EP_GroupRoomHeaderView.swift
+新文件 <-> 现有文件 : EPDatabaseView.swift      EP_DetailInputView.swift
+新文件 <-> 现有文件 : EPCenterView.swift      EP_DetailHeaderView.swift
+新文件 <-> 现有文件 : EPLoginHeaderController.swift      EP_DetailVC.swift
+新文件 <-> 现有文件 : EPDataOptionController.swift      EP_ReleaseVC.swift
+新文件 <-> 现有文件 : EPGroupPostController.swift      EP_AIRoomVC.swift
+新文件 <-> 现有文件 : EPBadgeController.swift      EP_RoomVC.swift
+新文件 <-> 现有文件 : EPFeedCurrentController.swift      EP_GroupRoomVC.swift
+新文件 <-> 现有文件 : EPSettingController.swift      EP_PostVC.swift
+新文件 <-> 现有文件 : EPMenuCell.swift      EP_ChatMessageCell.swift
+新文件 <-> 现有文件 : EPReportCell.swift      EP_RoomMessageCell.swift
+新文件 <-> 现有文件 : EPFeedInfoCell.swift      EP_FriendCell.swift
+新文件 <-> 现有文件 : EPEditPermissionView.swift      EP_CameraPreviewView.swift
+新文件 <-> 现有文件 : EPSetupView.swift      EP_RoomHeaderView.swift
+新文件 <-> 现有文件 : EPProductPreviewView.swift      EP_WaitingDotsView.swift
+新文件 <-> 现有文件 : EPExtensionController.swift      EP_VideoRoomVC.swift
+新文件 <-> 现有文件 : EPToolDetailController.swift      EP_ChatRoomVC.swift
+新文件 <-> 现有文件 : EPHomeController.swift      EP_FriendsVC.swift
+新文件 <-> 现有文件 : EPPostController.swift      EP_ChatVC.swift
+新文件 <-> 现有文件 : EPFriendChatController.swift      EP_BaseVC.swift
+新文件 <-> 现有文件 : EPConversation.swift      EP_TabBar.swift
+新文件 <-> 现有文件 : EPDatabaseConversationController.swift      EP_TabBarVC.swift
+新文件 <-> 现有文件 : EPPersonLocalController.swift      EP_LaunchVC.swift
+新文件 <-> 现有文件 : EPShop.swift      EP_ReportOption.swift
+新文件 <-> 现有文件 : EPConversationToolController.swift      EP_ReportSheetVC.swift
+新文件 <-> 现有文件 : EPEnergyData.swift      EP_ChatStore.swift
+新文件 <-> 现有文件 : EPDetail.swift      EP_LocalDatabase.swift
+新文件 <-> 现有文件 : EPFriendChallenge.swift      EP_ChallengeStore.swift
+新文件 <-> 现有文件 : EPManagerStore.swift      UserData.swift
+新文件 <-> 现有文件 : EPReleaseOption.swift      UIApplication+Extension.swift
+新文件 <-> 现有文件 : EPLocalizationTool.swift      UIColor+Extension.swift
+新文件 <-> 现有文件 : EPDelegateMenu.swift      SS_PublishedPostMedia.swift
+新文件 <-> 现有文件 : EPEnergyBadge.swift      UIViewController+EPReport.swift
+新文件 <-> 现有文件 : EPFriend.swift      Date+Extension.swift
+新文件 <-> 现有文件 : EPToolLocalization.swift      EP_CameraPermission.swift
+新文件 <-> 现有文件 : EPComment.swift      UIImage+Extension.swift
+新文件 <-> 现有文件 : EPContact.swift      SS_UserAvatarMedia.swift
+新文件 <-> 现有文件 : EPWaiting.swift      EP_PostMedia.swift
+新文件 <-> 现有文件 : EPScreen.swift      SS_UserVoiceMedia.swift
+新文件 <-> 现有文件 : EPPost.swift      String+Extension.swift
+新文件 <-> 现有文件 : EPDots.swift      SS_BundleResourceMedia.swift
+新文件 <-> 现有文件 : EPNews.swift      UserDefaults+Extension.swift
+新文件 <-> 现有文件 : EPFeedConversation.swift      String+Localization.swift
+新文件 <-> 现有文件 : EPUserLaunch.swift      EP_UserModel.swift
+新文件 <-> 现有文件 : EPListEmpty.swift      EP_BadgeModel.swift
+新文件 <-> 现有文件 : EPAvatarHeader.swift      EP_ChatConversationModel.swift
+新文件 <-> 现有文件 : EPHomeFeed.swift      EP_PostModel.swift
+新文件 <-> 现有文件 : EPBadgeWelcome.swift      EP_IAPManager.swift
+新文件 <-> 现有文件 : EPCamera.swift      EP_NetworkTool.swift
+新文件 <-> 现有文件 : EPPublishedView.swift      EP_EmptyView.swift
+新文件 <-> 现有文件 : EPRankMenu.swift      EP_CurrentUser.swift
+新文件 <-> 现有文件 : AppDelegate.swift      AppDelegate.swift
+
+
+自动为您开启5个线程进行混淆。。。。。。。
+开始自动清理源代码中的注释。。。。。。
+
+
+
+
+开始提取所有源文件中的类名并生成新类名。。。。。。
+类名: ViewController <---替换为---> EPShopListController
+类名: EP_WelcomeVC <---替换为---> EPReportController
+类名: EP_SetupVC <---替换为---> EPGroupController
+类名: EP_SetupInfoVC <---替换为---> EPContactController
+类名: EP_BadgeTierItem <---替换为---> EPBaseItem
+类名: EP_BadgeVC <---替换为---> EPModitySetupController
+类名: EP_BadgeEnergyItem <---替换为---> EPChatScreenItem
+类名: EP_BadgeEnergyRowView <---替换为---> EPWaitingView
+类名: EP_PersonHeaderModel <---替换为---> EPCenterFriends
+类名: EP_PersonHeaderView <---替换为---> EPFeedView
+类名: EP_PersonStatItemView <---替换为---> EPShopFriendView
+类名: EP_ShopProductItem <---替换为---> EPSheetItem
+类名: EP_ShopProductCell <---替换为---> EPSheetCell
+类名: EP_PersonMenuView <---替换为---> EPReleaseMessageView
+类名: EP_BadgeProgressView <---替换为---> EPPostListView
+类名: EP_ProfileHeaderModel <---替换为---> EPListBadge
+类名: EP_ProfileHeaderView <---替换为---> EPCurrentView
+类名: EP_ProfileStatItemView <---替换为---> EPPermissionLaunchView
+类名: EP_UserListItem <---替换为---> EPPersonItem
+类名: EP_UserListCell <---替换为---> EPLocalCell
+类名: EP_ShopVC <---替换为---> EPMediaDatabaseController
+类名: EP_ContactVC <---替换为---> EPFriendsListController
+类名: EP_ProfileVC <---替换为---> EPDatabaseReleaseController
+类名: EP_UserListVC <---替换为---> EPSetupController
+类名: EP_PersonVC <---替换为---> EPWelcomeScreenController
+类名: EP_SettingVC <---替换为---> EPResourceController
+类名: EP_SettingImageCell <---替换为---> EPNewsDataCell
+类名: EP_EditVC <---替换为---> EPBadgeDatabaseController
+类名: EP_VideoVC <---替换为---> EPBaseController
+类名: EP_HomeFeedItem <---替换为---> EPSettingItem
+类名: EP_HomeCell <---替换为---> EPVoiceCell
+类名: EP_HomeHeaderView <---替换为---> EPFeedScreenView
+类名: EP_ChallengeItem <---替换为---> EPPublishedCommentItem
+类名: EP_ChallengeCell <---替换为---> EPGroupBaseCell
+类名: EP_ChallengeVC <---替换为---> EPHeaderController
+类名: EP_HomeVC <---替换为---> EPNetworkPermissionController
+类名: EP_PostFeedItem <---替换为---> EPShopItem
+类名: EP_PostFeedCell <---替换为---> EPSettingCell
+类名: EP_GroupMessageItem <---替换为---> EPEmptyOptionItem
+类名: EP_GroupMessageCell <---替换为---> EPModityInfoCell
+类名: EP_RoomItem <---替换为---> EPProfileShopItem
+类名: EP_RoomCell <---替换为---> EPReleaseNewsCell
+类名: EP_DetailCommentItem <---替换为---> EPProfileExtensionItem
+类名: EP_DetailCommentCell <---替换为---> EPLoginCell
+类名: EP_GroupRoomHeaderView <---替换为---> EPDataVideoView
+类名: EP_GroupMemberAvatarCell <---替换为---> EPRankCell
+类名: EP_DetailInputView <---替换为---> EPDatabaseView
+类名: EP_DetailHeaderView <---替换为---> EPCenterView
+类名: EP_DetailVC <---替换为---> EPLoginHeaderController
+类名: EP_ReleaseVC <---替换为---> EPDataOptionController
+类名: EP_AIRoomVC <---替换为---> EPGroupPostController
+类名: EP_RoomVC <---替换为---> EPBadgeController
+类名: EP_GroupRoomVC <---替换为---> EPFeedCurrentController
+类名: EP_PostVC <---替换为---> EPSettingController
+类名: EP_ChatMessageItem <---替换为---> EPEmptyItem
+类名: EP_ChatMessageCell <---替换为---> EPMenuCell
+类名: EP_RoomMessageItem <---替换为---> EPInfoResourceItem
+类名: EP_RoomMessageCell <---替换为---> EPReportCell
+类名: EP_FriendItem <---替换为---> EPFeedEditItem
+类名: EP_FriendCell <---替换为---> EPFeedInfoCell
+类名: EP_CameraPreviewView <---替换为---> EPEditPermissionView
+类名: EP_RoomHeaderView <---替换为---> EPSetupView
+类名: EP_WaitingDotsView <---替换为---> EPProductPreviewView
+类名: EP_VideoRoomVC <---替换为---> EPExtensionController
+类名: EP_ChatRoomVC <---替换为---> EPToolDetailController
+类名: EP_FriendsVC <---替换为---> EPHomeController
+类名: EP_ChatVC <---替换为---> EPPostController
+类名: EP_BaseVC <---替换为---> EPFriendChatController
+类名: EP_TabBar <---替换为---> EPConversation
+类名: EP_TabBarVC <---替换为---> EPDatabaseConversationController
+类名: EP_LaunchVC <---替换为---> EPPersonLocalController
+类名: EP_ReportSheetVC <---替换为---> EPConversationToolController
+类名: EP_ChatStore <---替换为---> EPEnergyData
+类名: EP_LocalDatabase <---替换为---> EPDetail
+类名: EP_LocalDatabaseLegacy <---替换为---> EPDotsUser
+类名: EP_ChallengeStore <---替换为---> EPFriendChallenge
+类名: UserData <---替换为---> EPManagerStore
+类名: LanguageManager <---替换为---> EPEnergyLocalization
+类名: EP_UserModel <---替换为---> EPUserLaunch
+类名: EP_BadgeModel <---替换为---> EPListEmpty
+类名: EP_ChatStoredMessage <---替换为---> EPPostGroup
+类名: EP_ChatConversation <---替换为---> EPDelegateVoice
+类名: EP_ChatDatabase <---替换为---> EPDotsStore
+类名: EP_PostCommentModel <---替换为---> EPListChat
+类名: EP_PostModel <---替换为---> EPHomeFeed
+类名: EP_IAPManager <---替换为---> EPBadgeWelcome
+类名: CatalogItem <---替换为---> EPBundleContactItem
+类名: EP_NetworkTool <---替换为---> EPCamera
+类名: EP_EmptyView <---替换为---> EPPublishedView
+类名: EP_CurrentUser <---替换为---> EPRankMenu
+类名: AppDelegate <---替换为---> AppDelegate
+
+
+开始替换所有源文件中的类名。。。。。。
+
+
+
+混淆类名耗时：0.03272509574890137秒
+
+
+混淆图片xml资源耗时：1.0927879810333252秒
+
+
+开始替换宏定义名称。。。。。。
+
+
+
+开始提取所有协议名并生成新协议名。。。。。。
+协议: EP_HomeHeaderViewDelegate <---替换为---> BTEPProfile
+
+
+开始混淆多语言文件的key名称。。。。。。
+
+
+开始自动检测类继承关系。。。。。。
+EPShopListController : UIViewController
+EPReportController : UIViewController
+EPGroupController : EPFriendChatController
+EPContactController : EPFriendChatController
+EPModitySetupController : EPFriendChatController
+EPWaitingView : UIView
+EPFeedView : UIView
+EPShopFriendView : UIView
+EPSheetCell : UICollectionViewCell
+EPReleaseMessageView : UIView
+EPPostListView : UIView
+EPCurrentView : UIView
+EPPermissionLaunchView : UIView
+EPLocalCell : UICollectionViewCell
+EPMediaDatabaseController : EPFriendChatController
+EPFriendsListController : EPFriendChatController
+EPDatabaseReleaseController : EPFriendChatController
+EPSetupController : EPFriendChatController
+EPWelcomeScreenController : EPFriendChatController
+EPResourceController : EPFriendChatController
+EPNewsDataCell : UITableViewCell
+EPBadgeDatabaseController : EPFriendChatController
+EPBaseController : EPFriendChatController
+EPVoiceCell : UICollectionViewCell
+EPFeedScreenView : UICollectionReusableView
+EPGroupBaseCell : UICollectionViewCell
+EPHeaderController : EPFriendChatController
+EPNetworkPermissionController : EPFriendChatController
+EPSettingCell : UITableViewCell
+EPModityInfoCell : UITableViewCell
+EPReleaseNewsCell : UICollectionViewCell
+EPLoginCell : UITableViewCell
+EPDataVideoView : UIView
+EPRankCell : UICollectionViewCell
+EPDatabaseView : UIView
+EPCenterView : UIView
+EPLoginHeaderController : EPFriendChatController
+EPDataOptionController : EPFriendChatController
+EPGroupPostController : EPFriendChatController
+EPBadgeController : EPFriendChatController
+EPFeedCurrentController : EPFriendChatController
+EPSettingController : EPFriendChatController
+EPMenuCell : UITableViewCell
+EPReportCell : UITableViewCell
+EPFeedInfoCell : UITableViewCell
+EPEditPermissionView : UIView
+EPSetupView : UIView
+EPProductPreviewView : UIView
+EPExtensionController : EPFriendChatController
+EPToolDetailController : EPFriendChatController
+EPHomeController : EPFriendChatController
+EPPostController : EPFriendChatController
+EPFriendChatController : UIViewController
+EPConversation : UITabBar
+EPDatabaseConversationController : UITabBarController
+EPPersonLocalController : UIViewController
+EPConversationToolController : UIViewController
+EPPublishedView : UIView
+AppDelegate : UIResponder
+
+
+开始自动检测统计所有文件中属性信息。。。。。。
+
+
+开始自动修改Assets图片资源。。。。。。。
+
+Assets图片资源修改结束
+
+
+开始自动修改sks资源名称。。。。。。。
+
+sks资源修改结束
+
+开始打乱函数定义顺序。。。。。。。
+100%👌
+
+开始提取分析源文件中函数名称。。。。。。。
+文件: [旧 EP_WelcomeVC <--> 新 EPReportController]    函数名称: setupUI
+文件: [旧 EP_WelcomeVC <--> 新 EPReportController]    函数名称: setupConstraints
+文件: [旧 EP_WelcomeVC <--> 新 EPReportController]    函数名称: setupEvents
+文件: [旧 EP_WelcomeVC <--> 新 EPReportController]    函数名称: onAppleSignInTapped
+文件: [旧 EP_WelcomeVC <--> 新 EPReportController]    函数名称: handleAppleAuthorization
+文件: [旧 EP_WelcomeVC <--> 新 EPReportController]    函数名称: makeAvatarImage
+文件: [旧 EP_WelcomeVC <--> 新 EPReportController]    函数名称: onCreateAccountTapped
+文件: [旧 EP_WelcomeVC <--> 新 EPReportController]    函数名称: onSignInTapped
+文件: [旧 EP_WelcomeVC <--> 新 EPReportController]    函数名称: makeLoginButton
+文件: [旧 EP_SetupVC <--> 新 EPGroupController]    函数名称: setupUI
+文件: [旧 EP_SetupVC <--> 新 EPGroupController]    函数名称: setupConstraints
+文件: [旧 EP_SetupVC <--> 新 EPGroupController]    函数名称: setupEvents
+文件: [旧 EP_SetupVC <--> 新 EPGroupController]    函数名称: onSureTapped
+文件: [旧 EP_SetupVC <--> 新 EPGroupController]    函数名称: showAlert
+文件: [旧 EP_SetupVC <--> 新 EPGroupController]    函数名称: clickBackButton
+文件: [旧 EP_SetupVC <--> 新 EPGroupController]    函数名称: onMailClearTapped
+文件: [旧 EP_SetupVC <--> 新 EPGroupController]    函数名称: onPasswordVisibilityTapped
+文件: [旧 EP_SetupVC <--> 新 EPGroupController]    函数名称: onMailTextChanged
+文件: [旧 EP_SetupVC <--> 新 EPGroupController]    函数名称: updateMailClearButtonVisibility
+文件: [旧 EP_SetupVC <--> 新 EPGroupController]    函数名称: makeFieldLabel
+文件: [旧 EP_SetupVC <--> 新 EPGroupController]    函数名称: makeFieldContainer
+文件: [旧 EP_SetupVC <--> 新 EPGroupController]    函数名称: makeTextField
+文件: [旧 EP_SetupInfoVC <--> 新 EPContactController]    函数名称: setupUI
+文件: [旧 EP_SetupInfoVC <--> 新 EPContactController]    函数名称: setupConstraints
+文件: [旧 EP_SetupInfoVC <--> 新 EPContactController]    函数名称: setupEvents
+文件: [旧 EP_SetupInfoVC <--> 新 EPContactController]    函数名称: onCreateTapped
+文件: [旧 EP_SetupInfoVC <--> 新 EPContactController]    函数名称: showAlert
+文件: [旧 EP_SetupInfoVC <--> 新 EPContactController]    函数名称: clickBackButton
+文件: [旧 EP_SetupInfoVC <--> 新 EPContactController]    函数名称: onPickPhotoTapped
+文件: [旧 EP_SetupInfoVC <--> 新 EPContactController]    函数名称: makeFieldLabel
+文件: [旧 EP_SetupInfoVC <--> 新 EPContactController]    函数名称: makeFieldContainer
+文件: [旧 EP_BadgeVC <--> 新 EPModitySetupController]    函数名称: clickBackButton
+文件: [旧 EP_BadgeVC <--> 新 EPModitySetupController]    函数名称: makeBadgeColumn
+文件: [旧 EP_BadgeVC <--> 新 EPModitySetupController]    函数名称: setupUI
+文件: [旧 EP_BadgeVC <--> 新 EPModitySetupController]    函数名称: reloadBadgeTiers
+文件: [旧 EP_BadgeVC <--> 新 EPModitySetupController]    函数名称: applyData
+文件: [旧 EP_BadgeVC <--> 新 EPModitySetupController]    函数名称: makeBadgeTiers
+文件: [旧 EP_BadgeVC <--> 新 EPModitySetupController]    函数名称: setupConstraints
+文件: [旧 EP_BadgeVC <--> 新 EPModitySetupController]    函数名称: setupEvents
+文件: [旧 EP_BadgeVC <--> 新 EPModitySetupController]    函数名称: loadData
+文件: [旧 EP_BadgeEnergyRowView <--> 新 EPWaitingView]    函数名称: configure
+文件: [旧 EP_PersonHeaderView <--> 新 EPFeedView]    函数名称: setMoreButtonHidden
+文件: [旧 EP_PersonHeaderView <--> 新 EPFeedView]    函数名称: onMoreButtonTapped
+文件: [旧 EP_PersonHeaderView <--> 新 EPFeedView]    函数名称: onFanStatTapped
+文件: [旧 EP_PersonHeaderView <--> 新 EPFeedView]    函数名称: onFriendsStatTapped
+文件: [旧 EP_PersonHeaderView <--> 新 EPFeedView]    函数名称: configure
+文件: [旧 EP_PersonHeaderView <--> 新 EPFeedView]    函数名称: configure
+文件: [旧 EP_ShopProductCell <--> 新 EPSheetCell]    函数名称: configure
+文件: [旧 EP_ShopProductCell <--> 新 EPSheetCell]    函数名称: updateSelectionAppearance
+文件: [旧 EP_PersonMenuView <--> 新 EPReleaseMessageView]    函数名称: handleChatTap
+文件: [旧 EP_PersonMenuView <--> 新 EPReleaseMessageView]    函数名称: handleFollowTap
+文件: [旧 EP_PersonMenuView <--> 新 EPReleaseMessageView]    函数名称: setupConstraints
+文件: [旧 EP_PersonMenuView <--> 新 EPReleaseMessageView]    函数名称: setupUI
+文件: [旧 EP_PersonMenuView <--> 新 EPReleaseMessageView]    函数名称: setupEvents
+文件: [旧 EP_PersonMenuView <--> 新 EPReleaseMessageView]    函数名称: handleVideoTap
+文件: [旧 EP_PersonMenuView <--> 新 EPReleaseMessageView]    函数名称: updateFollowAppearance
+文件: [旧 EP_ProfileHeaderView <--> 新 EPCurrentView]    函数名称: onSettingButtonTapped
+文件: [旧 EP_ProfileHeaderView <--> 新 EPCurrentView]    函数名称: onEditButtonTapped
+文件: [旧 EP_ProfileHeaderView <--> 新 EPCurrentView]    函数名称: onAchievementButtonTapped
+文件: [旧 EP_ProfileHeaderView <--> 新 EPCurrentView]    函数名称: onReleaseTabTapped
+文件: [旧 EP_ProfileHeaderView <--> 新 EPCurrentView]    函数名称: configure
+文件: [旧 EP_ProfileHeaderView <--> 新 EPCurrentView]    函数名称: makeTabButton
+文件: [旧 EP_ProfileHeaderView <--> 新 EPCurrentView]    函数名称: onFriendsStatTapped
+文件: [旧 EP_ProfileHeaderView <--> 新 EPCurrentView]    函数名称: onShopButtonTapped
+文件: [旧 EP_ProfileHeaderView <--> 新 EPCurrentView]    函数名称: onFanStatTapped
+文件: [旧 EP_ProfileHeaderView <--> 新 EPCurrentView]    函数名称: onLikeTabTapped
+文件: [旧 EP_ProfileHeaderView <--> 新 EPCurrentView]    函数名称: updateTabAppearance
+文件: [旧 EP_ProfileHeaderView <--> 新 EPCurrentView]    函数名称: configure
+文件: [旧 EP_UserListCell <--> 新 EPLocalCell]    函数名称: actionButtonImageName
+文件: [旧 EP_UserListCell <--> 新 EPLocalCell]    函数名称: onActionButtonTapped
+文件: [旧 EP_UserListCell <--> 新 EPLocalCell]    函数名称: configure
+文件: [旧 EP_ShopVC <--> 新 EPMediaDatabaseController]    函数名称: refreshStoreProducts
+文件: [旧 EP_ShopVC <--> 新 EPMediaDatabaseController]    函数名称: cellSize
+文件: [旧 EP_ShopVC <--> 新 EPMediaDatabaseController]    函数名称: setupConstraints
+文件: [旧 EP_ShopVC <--> 新 EPMediaDatabaseController]    函数名称: setupEvents
+文件: [旧 EP_ShopVC <--> 新 EPMediaDatabaseController]    函数名称: onConfirmTapped
+文件: [旧 EP_ShopVC <--> 新 EPMediaDatabaseController]    函数名称: reloadBalance
+文件: [旧 EP_ShopVC <--> 新 EPMediaDatabaseController]    函数名称: updateBalanceText
+文件: [旧 EP_ShopVC <--> 新 EPMediaDatabaseController]    函数名称: clickBackButton
+文件: [旧 EP_ShopVC <--> 新 EPMediaDatabaseController]    函数名称: setupUI
+文件: [旧 EP_ContactVC <--> 新 EPFriendsListController]    函数名称: setupUI
+文件: [旧 EP_ContactVC <--> 新 EPFriendsListController]    函数名称: setupConstraints
+文件: [旧 EP_ContactVC <--> 新 EPFriendsListController]    函数名称: setupEvents
+文件: [旧 EP_ContactVC <--> 新 EPFriendsListController]    函数名称: clickBackButton
+文件: [旧 EP_ContactVC <--> 新 EPFriendsListController]    函数名称: onEmailTapped
+文件: [旧 EP_ContactVC <--> 新 EPFriendsListController]    函数名称: onCopyTapped
+文件: [旧 EP_ProfileVC <--> 新 EPDatabaseReleaseController]    函数名称: loadData
+文件: [旧 EP_ProfileVC <--> 新 EPDatabaseReleaseController]    函数名称: setupUI
+文件: [旧 EP_ProfileVC <--> 新 EPDatabaseReleaseController]    函数名称: setupConstraints
+文件: [旧 EP_ProfileVC <--> 新 EPDatabaseReleaseController]    函数名称: setupTableHeader
+文件: [旧 EP_ProfileVC <--> 新 EPDatabaseReleaseController]    函数名称: switchTab
+文件: [旧 EP_ProfileVC <--> 新 EPDatabaseReleaseController]    函数名称: toggleLike
+文件: [旧 EP_UserListVC <--> 新 EPSetupController]    函数名称: cellSize
+文件: [旧 EP_UserListVC <--> 新 EPSetupController]    函数名称: setupEvents
+文件: [旧 EP_UserListVC <--> 新 EPSetupController]    函数名称: clickBackButton
+文件: [旧 EP_UserListVC <--> 新 EPSetupController]    函数名称: setupUI
+文件: [旧 EP_UserListVC <--> 新 EPSetupController]    函数名称: handleAction
+文件: [旧 EP_UserListVC <--> 新 EPSetupController]    函数名称: setupConstraints
+文件: [旧 EP_UserListVC <--> 新 EPSetupController]    函数名称: loadData
+文件: [旧 EP_PersonVC <--> 新 EPWelcomeScreenController]    函数名称: setupUI
+文件: [旧 EP_PersonVC <--> 新 EPWelcomeScreenController]    函数名称: updateTableBottomInset
+文件: [旧 EP_PersonVC <--> 新 EPWelcomeScreenController]    函数名称: applyOwnProfileUIIfNeeded
+文件: [旧 EP_PersonVC <--> 新 EPWelcomeScreenController]    函数名称: setupConstraints
+文件: [旧 EP_PersonVC <--> 新 EPWelcomeScreenController]    函数名称: setupTableHeader
+文件: [旧 EP_PersonVC <--> 新 EPWelcomeScreenController]    函数名称: setupEvents
+文件: [旧 EP_PersonVC <--> 新 EPWelcomeScreenController]    函数名称: toggleFollow
+文件: [旧 EP_PersonVC <--> 新 EPWelcomeScreenController]    函数名称: openChatRoom
+文件: [旧 EP_PersonVC <--> 新 EPWelcomeScreenController]    函数名称: openPeerVideoIfAvailable
+文件: [旧 EP_PersonVC <--> 新 EPWelcomeScreenController]    函数名称: updateTableHeaderLayoutIfNeeded
+文件: [旧 EP_PersonVC <--> 新 EPWelcomeScreenController]    函数名称: clickBackButton
+文件: [旧 EP_PersonVC <--> 新 EPWelcomeScreenController]    函数名称: reloadFeedItems
+文件: [旧 EP_PersonVC <--> 新 EPWelcomeScreenController]    函数名称: toggleLike
+文件: [旧 EP_SettingVC <--> 新 EPResourceController]    函数名称: updateTableMetricsIfNeeded
+文件: [旧 EP_SettingVC <--> 新 EPResourceController]    函数名称: setupUI
+文件: [旧 EP_SettingVC <--> 新 EPResourceController]    函数名称: setupConstraints
+文件: [旧 EP_SettingVC <--> 新 EPResourceController]    函数名称: setupEvents
+文件: [旧 EP_SettingVC <--> 新 EPResourceController]    函数名称: clickBackButton
+文件: [旧 EP_SettingVC <--> 新 EPResourceController]    函数名称: presentDeleteAccountConfirmation
+文件: [旧 EP_SettingVC <--> 新 EPResourceController]    函数名称: performLogout
+文件: [旧 EP_SettingVC <--> 新 EPResourceController]    函数名称: performDeleteAccount
+文件: [旧 EP_SettingVC <--> 新 EPResourceController]    函数名称: configure
+文件: [旧 EP_EditVC <--> 新 EPBadgeDatabaseController]    函数名称: setupConstraints
+文件: [旧 EP_EditVC <--> 新 EPBadgeDatabaseController]    函数名称: clickBackButton
+文件: [旧 EP_EditVC <--> 新 EPBadgeDatabaseController]    函数名称: onChangePhotoTapped
+文件: [旧 EP_EditVC <--> 新 EPBadgeDatabaseController]    函数名称: onReviseTapped
+文件: [旧 EP_EditVC <--> 新 EPBadgeDatabaseController]    函数名称: setupEvents
+文件: [旧 EP_EditVC <--> 新 EPBadgeDatabaseController]    函数名称: presentAlert
+文件: [旧 EP_EditVC <--> 新 EPBadgeDatabaseController]    函数名称: setupUI
+文件: [旧 EP_EditVC <--> 新 EPBadgeDatabaseController]    函数名称: saveAction
+文件: [旧 EP_VideoVC <--> 新 EPBaseController]    函数名称: setupPlayer
+文件: [旧 EP_VideoVC <--> 新 EPBaseController]    函数名称: setupEvents
+文件: [旧 EP_VideoVC <--> 新 EPBaseController]    函数名称: applyContent
+文件: [旧 EP_VideoVC <--> 新 EPBaseController]    函数名称: setupConstraints
+文件: [旧 EP_VideoVC <--> 新 EPBaseController]    函数名称: playerDidFinish
+文件: [旧 EP_VideoVC <--> 新 EPBaseController]    函数名称: setupUI
+文件: [旧 EP_VideoVC <--> 新 EPBaseController]    函数名称: clickBackButton
+文件: [旧 EP_HomeCell <--> 新 EPVoiceCell]    函数名称: configure
+文件: [旧 EP_HomeHeaderView <--> 新 EPFeedScreenView]    函数名称: homeHeaderViewDidTapOutfit
+文件: [旧 EP_HomeHeaderView <--> 新 EPFeedScreenView]    函数名称: homeHeaderViewDidPuhlish
+文件: [旧 EP_HomeHeaderView <--> 新 EPFeedScreenView]    函数名称: onOutButtonTapped
+文件: [旧 EP_HomeHeaderView <--> 新 EPFeedScreenView]    函数名称: onPushButtonTapped
+文件: [旧 EP_ChallengeCell <--> 新 EPGroupBaseCell]    函数名称: onLikeButtonTapped
+文件: [旧 EP_ChallengeCell <--> 新 EPGroupBaseCell]    函数名称: configure
+文件: [旧 EP_ChallengeVC <--> 新 EPHeaderController]    函数名称: loadData
+文件: [旧 EP_ChallengeVC <--> 新 EPHeaderController]    函数名称: toggleLike
+文件: [旧 EP_ChallengeVC <--> 新 EPHeaderController]    函数名称: setupUI
+文件: [旧 EP_ChallengeVC <--> 新 EPHeaderController]    函数名称: setupConstraints
+文件: [旧 EP_ChallengeVC <--> 新 EPHeaderController]    函数名称: setupEvents
+文件: [旧 EP_ChallengeVC <--> 新 EPHeaderController]    函数名称: clickBackButton
+文件: [旧 EP_ChallengeVC <--> 新 EPHeaderController]    函数名称: cellSize
+文件: [旧 EP_HomeVC <--> 新 EPNetworkPermissionController]    函数名称: loadData
+文件: [旧 EP_HomeVC <--> 新 EPNetworkPermissionController]    函数名称: setupUI
+文件: [旧 EP_HomeVC <--> 新 EPNetworkPermissionController]    函数名称: setupConstraints
+文件: [旧 EP_HomeVC <--> 新 EPNetworkPermissionController]    函数名称: cellSize
+文件: [旧 EP_HomeVC <--> 新 EPNetworkPermissionController]    函数名称: homeHeaderViewDidPuhlish
+文件: [旧 EP_HomeVC <--> 新 EPNetworkPermissionController]    函数名称: homeHeaderViewDidTapOutfit
+文件: [旧 EP_PostFeedCell <--> 新 EPSettingCell]    函数名称: onLikeButtonTapped
+文件: [旧 EP_PostFeedCell <--> 新 EPSettingCell]    函数名称: configure
+文件: [旧 EP_PostFeedCell <--> 新 EPSettingCell]    函数名称: onAvatarTap
+文件: [旧 EP_PostFeedCell <--> 新 EPSettingCell]    函数名称: onMoreButtonTapped
+文件: [旧 EP_PostFeedCell <--> 新 EPSettingCell]    函数名称: makeActionButton
+文件: [旧 EP_PostFeedCell <--> 新 EPSettingCell]    函数名称: presentDeleteConfirmation
+文件: [旧 EP_PostFeedCell <--> 新 EPSettingCell]    函数名称: deleteOwnPost
+文件: [旧 EP_PostFeedCell <--> 新 EPSettingCell]    函数名称: onChatButtonTapped
+文件: [旧 EP_GroupMessageCell <--> 新 EPModityInfoCell]    函数名称: configure
+文件: [旧 EP_RoomCell <--> 新 EPReleaseNewsCell]    函数名称: configure
+文件: [旧 EP_RoomCell <--> 新 EPReleaseNewsCell]    函数名称: rebuildAvatarStack
+文件: [旧 EP_DetailCommentCell <--> 新 EPLoginCell]    函数名称: configure
+文件: [旧 EP_GroupRoomHeaderView <--> 新 EPDataVideoView]    函数名称: configure
+文件: [旧 EP_GroupRoomHeaderView <--> 新 EPDataVideoView]    函数名称: configure
+文件: [旧 EP_DetailInputView <--> 新 EPDatabaseView]    函数名称: onSendButtonTapped
+文件: [旧 EP_DetailHeaderView <--> 新 EPCenterView]    函数名称: handleCoverTap
+文件: [旧 EP_DetailHeaderView <--> 新 EPCenterView]    函数名称: configure
+文件: [旧 EP_DetailHeaderView <--> 新 EPCenterView]    函数名称: onLikeButtonTapped
+文件: [旧 EP_DetailHeaderView <--> 新 EPCenterView]    函数名称: onMoreButtonTapped
+文件: [旧 EP_DetailHeaderView <--> 新 EPCenterView]    函数名称: makeActionButton
+文件: [旧 EP_DetailVC <--> 新 EPLoginHeaderController]    函数名称: setupUI
+文件: [旧 EP_DetailVC <--> 新 EPLoginHeaderController]    函数名称: setupConstraints
+文件: [旧 EP_DetailVC <--> 新 EPLoginHeaderController]    函数名称: setupEvents
+文件: [旧 EP_DetailVC <--> 新 EPLoginHeaderController]    函数名称: setupTableHeader
+文件: [旧 EP_DetailVC <--> 新 EPLoginHeaderController]    函数名称: openVideoPlayerIfNeeded
+文件: [旧 EP_DetailVC <--> 新 EPLoginHeaderController]    函数名称: updateTableHeaderLayoutIfNeeded
+文件: [旧 EP_DetailVC <--> 新 EPLoginHeaderController]    函数名称: togglePostLike
+文件: [旧 EP_DetailVC <--> 新 EPLoginHeaderController]    函数名称: appendComment
+文件: [旧 EP_DetailVC <--> 新 EPLoginHeaderController]    函数名称: reloadPostFromDatabase
+文件: [旧 EP_DetailVC <--> 新 EPLoginHeaderController]    函数名称: applyPost
+文件: [旧 EP_DetailVC <--> 新 EPLoginHeaderController]    函数名称: clickBackButton
+文件: [旧 EP_ReleaseVC <--> 新 EPDataOptionController]    函数名称: setupUI
+文件: [旧 EP_ReleaseVC <--> 新 EPDataOptionController]    函数名称: setupConstraints
+文件: [旧 EP_ReleaseVC <--> 新 EPDataOptionController]    函数名称: setupEvents
+文件: [旧 EP_ReleaseVC <--> 新 EPDataOptionController]    函数名称: clickBackButton
+文件: [旧 EP_ReleaseVC <--> 新 EPDataOptionController]    函数名称: onAddMediaTapped
+文件: [旧 EP_ReleaseVC <--> 新 EPDataOptionController]    函数名称: onSubmitTapped
+文件: [旧 EP_ReleaseVC <--> 新 EPDataOptionController]    函数名称: buildPost
+文件: [旧 EP_ReleaseVC <--> 新 EPDataOptionController]    函数名称: applyMediaPreview
+文件: [旧 EP_ReleaseVC <--> 新 EPDataOptionController]    函数名称: updatePlaceholderVisibility
+文件: [旧 EP_AIRoomVC <--> 新 EPGroupPostController]    函数名称: appendOutgoingMessage
+文件: [旧 EP_AIRoomVC <--> 新 EPGroupPostController]    函数名称: clickBackButton
+文件: [旧 EP_AIRoomVC <--> 新 EPGroupPostController]    函数名称: scrollToBottom
+文件: [旧 EP_AIRoomVC <--> 新 EPGroupPostController]    函数名称: appendIncomingReply
+文件: [旧 EP_AIRoomVC <--> 新 EPGroupPostController]    函数名称: scheduleAIReply
+文件: [旧 EP_AIRoomVC <--> 新 EPGroupPostController]    函数名称: setupUI
+文件: [旧 EP_AIRoomVC <--> 新 EPGroupPostController]    函数名称: setupConstraints
+文件: [旧 EP_AIRoomVC <--> 新 EPGroupPostController]    函数名称: setupEvents
+文件: [旧 EP_AIRoomVC <--> 新 EPGroupPostController]    函数名称: sendMessage
+文件: [旧 EP_RoomVC <--> 新 EPBadgeController]    函数名称: setupUI
+文件: [旧 EP_RoomVC <--> 新 EPBadgeController]    函数名称: setupConstraints
+文件: [旧 EP_RoomVC <--> 新 EPBadgeController]    函数名称: setupEvents
+文件: [旧 EP_RoomVC <--> 新 EPBadgeController]    函数名称: cellSize
+文件: [旧 EP_RoomVC <--> 新 EPBadgeController]    函数名称: clickBackButton
+文件: [旧 EP_GroupRoomVC <--> 新 EPFeedCurrentController]    函数名称: seedMessages
+文件: [旧 EP_GroupRoomVC <--> 新 EPFeedCurrentController]    函数名称: scheduleWelcomeMessage
+文件: [旧 EP_GroupRoomVC <--> 新 EPFeedCurrentController]    函数名称: appendRandomWelcomeMessage
+文件: [旧 EP_GroupRoomVC <--> 新 EPFeedCurrentController]    函数名称: setupUI
+文件: [旧 EP_GroupRoomVC <--> 新 EPFeedCurrentController]    函数名称: setupConstraints
+文件: [旧 EP_GroupRoomVC <--> 新 EPFeedCurrentController]    函数名称: setupEvents
+文件: [旧 EP_GroupRoomVC <--> 新 EPFeedCurrentController]    函数名称: setupTableHeader
+文件: [旧 EP_GroupRoomVC <--> 新 EPFeedCurrentController]    函数名称: updateTableHeaderLayoutIfNeeded
+文件: [旧 EP_GroupRoomVC <--> 新 EPFeedCurrentController]    函数名称: appendOutgoingMessage
+文件: [旧 EP_GroupRoomVC <--> 新 EPFeedCurrentController]    函数名称: sendMessage
+文件: [旧 EP_GroupRoomVC <--> 新 EPFeedCurrentController]    函数名称: scrollToBottom
+文件: [旧 EP_GroupRoomVC <--> 新 EPFeedCurrentController]    函数名称: clickBackButton
+文件: [旧 EP_GroupRoomVC <--> 新 EPFeedCurrentController]    函数名称: onAlertTapped
+文件: [旧 EP_GroupRoomVC <--> 新 EPFeedCurrentController]    函数名称: onOutTapped
+文件: [旧 EP_PostVC <--> 新 EPSettingController]    函数名称: setupUI
+文件: [旧 EP_PostVC <--> 新 EPSettingController]    函数名称: clickReleaseButton
+文件: [旧 EP_PostVC <--> 新 EPSettingController]    函数名称: onCosButtonTapped
+文件: [旧 EP_PostVC <--> 新 EPSettingController]    函数名称: setupEvents
+文件: [旧 EP_PostVC <--> 新 EPSettingController]    函数名称: loadData
+文件: [旧 EP_PostVC <--> 新 EPSettingController]    函数名称: onAIButtonTapped
+文件: [旧 EP_PostVC <--> 新 EPSettingController]    函数名称: setupConstraints
+文件: [旧 EP_PostVC <--> 新 EPSettingController]    函数名称: toggleLike
+文件: [旧 EP_ChatMessageCell <--> 新 EPMenuCell]    函数名称: configure
+文件: [旧 EP_RoomMessageCell <--> 新 EPReportCell]    函数名称: configure
+文件: [旧 EP_RoomMessageCell <--> 新 EPReportCell]    函数名称: configureForAI
+文件: [旧 EP_FriendCell <--> 新 EPFeedInfoCell]    函数名称: updateFollowButton
+文件: [旧 EP_FriendCell <--> 新 EPFeedInfoCell]    函数名称: onChatButtonTapped
+文件: [旧 EP_FriendCell <--> 新 EPFeedInfoCell]    函数名称: onFollowButtonTapped
+文件: [旧 EP_FriendCell <--> 新 EPFeedInfoCell]    函数名称: configure
+文件: [旧 EP_CameraPreviewView <--> 新 EPEditPermissionView]    函数名称: switchCamera
+文件: [旧 EP_CameraPreviewView <--> 新 EPEditPermissionView]    函数名称: configureInput
+文件: [旧 EP_CameraPreviewView <--> 新 EPEditPermissionView]    函数名称: captureDevice
+文件: [旧 EP_RoomHeaderView <--> 新 EPSetupView]    函数名称: clickMoreButton
+文件: [旧 EP_RoomHeaderView <--> 新 EPSetupView]    函数名称: clickVideoButton
+文件: [旧 EP_RoomHeaderView <--> 新 EPSetupView]    函数名称: configure
+文件: [旧 EP_VideoRoomVC <--> 新 EPExtensionController]    函数名称: setupUI
+文件: [旧 EP_VideoRoomVC <--> 新 EPExtensionController]    函数名称: setupConstraints
+文件: [旧 EP_VideoRoomVC <--> 新 EPExtensionController]    函数名称: layoutControlButtons
+文件: [旧 EP_VideoRoomVC <--> 新 EPExtensionController]    函数名称: setupEvents
+文件: [旧 EP_VideoRoomVC <--> 新 EPExtensionController]    函数名称: applyPeerInfo
+文件: [旧 EP_VideoRoomVC <--> 新 EPExtensionController]    函数名称: updateControlButtons
+文件: [旧 EP_VideoRoomVC <--> 新 EPExtensionController]    函数名称: clickBackButton
+文件: [旧 EP_VideoRoomVC <--> 新 EPExtensionController]    函数名称: onMicOnTapped
+文件: [旧 EP_VideoRoomVC <--> 新 EPExtensionController]    函数名称: onVideoOnTapped
+文件: [旧 EP_VideoRoomVC <--> 新 EPExtensionController]    函数名称: onReverseTapped
+文件: [旧 EP_VideoRoomVC <--> 新 EPExtensionController]    函数名称: onEndCallTapped
+文件: [旧 EP_VideoRoomVC <--> 新 EPExtensionController]    函数名称: makeControlButton
+文件: [旧 EP_ChatRoomVC <--> 新 EPToolDetailController]    函数名称: setupUI
+文件: [旧 EP_ChatRoomVC <--> 新 EPToolDetailController]    函数名称: setupConstraints
+文件: [旧 EP_ChatRoomVC <--> 新 EPToolDetailController]    函数名称: setupEvents
+文件: [旧 EP_ChatRoomVC <--> 新 EPToolDetailController]    函数名称: setupTableHeader
+文件: [旧 EP_ChatRoomVC <--> 新 EPToolDetailController]    函数名称: updateTableHeaderLayoutIfNeeded
+文件: [旧 EP_ChatRoomVC <--> 新 EPToolDetailController]    函数名称: reloadMessages
+文件: [旧 EP_ChatRoomVC <--> 新 EPToolDetailController]    函数名称: markConversationRead
+文件: [旧 EP_ChatRoomVC <--> 新 EPToolDetailController]    函数名称: appendOutgoingMessage
+文件: [旧 EP_ChatRoomVC <--> 新 EPToolDetailController]    函数名称: sendMessage
+文件: [旧 EP_ChatRoomVC <--> 新 EPToolDetailController]    函数名称: scrollToBottom
+文件: [旧 EP_ChatRoomVC <--> 新 EPToolDetailController]    函数名称: clickBackButton
+文件: [旧 EP_ChatRoomVC <--> 新 EPToolDetailController]    函数名称: presentBlockPeerConfirmation
+文件: [旧 EP_ChatRoomVC <--> 新 EPToolDetailController]    函数名称: blockPeerDeleteChatAndPop
+文件: [旧 EP_FriendsVC <--> 新 EPHomeController]    函数名称: loadData
+文件: [旧 EP_FriendsVC <--> 新 EPHomeController]    函数名称: setupUI
+文件: [旧 EP_FriendsVC <--> 新 EPHomeController]    函数名称: setupConstraints
+文件: [旧 EP_FriendsVC <--> 新 EPHomeController]    函数名称: setupEvents
+文件: [旧 EP_FriendsVC <--> 新 EPHomeController]    函数名称: clickBackButton
+文件: [旧 EP_FriendsVC <--> 新 EPHomeController]    函数名称: openChat
+文件: [旧 EP_FriendsVC <--> 新 EPHomeController]    函数名称: unfollow
+文件: [旧 EP_FriendsVC <--> 新 EPHomeController]    函数名称: toggleFollow
+文件: [旧 EP_ChatVC <--> 新 EPPostController]    函数名称: loadData
+文件: [旧 EP_ChatVC <--> 新 EPPostController]    函数名称: setupEvents
+文件: [旧 EP_ChatVC <--> 新 EPPostController]    函数名称: onFriendButtonTapped
+文件: [旧 EP_ChatVC <--> 新 EPPostController]    函数名称: onFollowButtonTapped
+文件: [旧 EP_ChatVC <--> 新 EPPostController]    函数名称: setupUI
+文件: [旧 EP_ChatVC <--> 新 EPPostController]    函数名称: setupConstraints
+文件: [旧 EP_ChatVC <--> 新 EPPostController]    函数名称: swipeDeleteImage
+文件: [旧 EP_TabBarVC <--> 新 EPDatabaseConversationController]    函数名称: setupViewControllers
+文件: [旧 EP_TabBarVC <--> 新 EPDatabaseConversationController]    函数名称: makeTabBarItem
+文件: [旧 EP_TabBarVC <--> 新 EPDatabaseConversationController]    函数名称: setupTabBarAppearance
+文件: [旧 EP_TabBarVC <--> 新 EPDatabaseConversationController]    函数名称: layoutTabBarToBottom
+文件: [旧 EP_ReportSheetVC <--> 新 EPConversationToolController]    函数名称: setupConstraints
+文件: [旧 EP_ReportSheetVC <--> 新 EPConversationToolController]    函数名称: onConfirmTapped
+文件: [旧 EP_ReportSheetVC <--> 新 EPConversationToolController]    函数名称: closeReportSheet
+文件: [旧 EP_ReportSheetVC <--> 新 EPConversationToolController]    函数名称: animateIn
+文件: [旧 EP_ReportSheetVC <--> 新 EPConversationToolController]    函数名称: updateOptionSelection
+文件: [旧 EP_ReportSheetVC <--> 新 EPConversationToolController]    函数名称: setupEvents
+文件: [旧 EP_ReportSheetVC <--> 新 EPConversationToolController]    函数名称: onOptionTapped
+文件: [旧 EP_ReportSheetVC <--> 新 EPConversationToolController]    函数名称: setupUI
+文件: [旧 EP_ReportSheetVC <--> 新 EPConversationToolController]    函数名称: makeOptionButton
+文件: [旧 EP_ReportSheetVC <--> 新 EPConversationToolController]    函数名称: closeSheet
+文件: [旧 EP_ReportSheetVC <--> 新 EPConversationToolController]    函数名称: shakePanel
+文件: [旧 EP_ChatStore <--> 新 EPEnergyData]    函数名称: roomMessages
+文件: [旧 EP_ChatStore <--> 新 EPEnergyData]    函数名称: saveToDisk
+文件: [旧 EP_ChatStore <--> 新 EPEnergyData]    函数名称: deleteAllForUser
+文件: [旧 EP_ChatStore <--> 新 EPEnergyData]    函数名称: deleteConversation
+文件: [旧 EP_ChatStore <--> 新 EPEnergyData]    函数名称: markAsRead
+文件: [旧 EP_ChatStore <--> 新 EPEnergyData]    函数名称: loadFromDisk
+文件: [旧 EP_ChatStore <--> 新 EPEnergyData]    函数名称: appendMessage
+文件: [旧 EP_ChatStore <--> 新 EPEnergyData]    函数名称: listItems
+文件: [旧 EP_LocalDatabase <--> 新 EPDetail]    函数名称: migrated
+文件: [旧 EP_ChallengeStore <--> 新 EPFriendChallenge]    函数名称: toggleLike
+文件: [旧 EP_ChallengeStore <--> 新 EPFriendChallenge]    函数名称: likedChallengeIds
+文件: [旧 EP_ChallengeStore <--> 新 EPFriendChallenge]    函数名称: saveLikedChallengeIds
+文件: [旧 EP_ChallengeStore <--> 新 EPFriendChallenge]    函数名称: likedKey
+文件: [旧 UserData <--> 新 EPManagerStore]    函数名称: isSeedPostId
+文件: [旧 UserData <--> 新 EPManagerStore]    函数名称: visiblePosts
+文件: [旧 UserData <--> 新 EPManagerStore]    函数名称: hidePost
+文件: [旧 UserData <--> 新 EPManagerStore]    函数名称: addUser
+文件: [旧 UserData <--> 新 EPManagerStore]    函数名称: isPostLiked
+文件: [旧 UserData <--> 新 EPManagerStore]    函数名称: likedPosts
+文件: [旧 UserData <--> 新 EPManagerStore]    函数名称: toggleLikePost
+文件: [旧 UserData <--> 新 EPManagerStore]    函数名称: updateUser
+文件: [旧 UserData <--> 新 EPManagerStore]    函数名称: setUserBlock
+文件: [旧 UserData <--> 新 EPManagerStore]    函数名称: followingUsers
+文件: [旧 UserData <--> 新 EPManagerStore]    函数名称: fanUsers
+文件: [旧 UserData <--> 新 EPManagerStore]    函数名称: blockedUsers
+文件: [旧 UserData <--> 新 EPManagerStore]    函数名称: areMutualFriends
+文件: [旧 UserData <--> 新 EPManagerStore]    函数名称: followUser
+文件: [旧 UserData <--> 新 EPManagerStore]    函数名称: unfollowUser
+文件: [旧 UserData <--> 新 EPManagerStore]    函数名称: updateUser
+文件: [旧 UserData <--> 新 EPManagerStore]    函数名称: incrementBadgePush
+文件: [旧 UserData <--> 新 EPManagerStore]    函数名称: updateUser
+文件: [旧 UserData <--> 新 EPManagerStore]    函数名称: deleteAccount
+文件: [旧 UserData <--> 新 EPManagerStore]    函数名称: addPost
+文件: [旧 UserData <--> 新 EPManagerStore]    函数名称: updatePost
+文件: [旧 UserData <--> 新 EPManagerStore]    函数名称: deletePost
+文件: [旧 UserData <--> 新 EPManagerStore]    函数名称: resetToSeed
+文件: [旧 UserData <--> 新 EPManagerStore]    函数名称: migrateLegacyPostLikesIfNeeded
+文件: [旧 UserData <--> 新 EPManagerStore]    函数名称: loadFromDisk
+文件: [旧 UserData <--> 新 EPManagerStore]    函数名称: saveToDisk
+文件: [旧 UserData <--> 新 EPManagerStore]    函数名称: ensureTestUserExists
+文件: [旧 UserData <--> 新 EPManagerStore]    函数名称: syncTestUserProfileFromSeedIfNeeded
+文件: [旧 UserData <--> 新 EPManagerStore]    函数名称: syncTestUserBadgeInfoFromSeedIfNeeded
+文件: [旧 UserData <--> 新 EPManagerStore]    函数名称: syncSeedPostsMediaIfNeeded
+文件: [旧 UserData <--> 新 EPManagerStore]    函数名称: syncSeedPostsCommentsIfNeeded
+文件: [旧 UserData <--> 新 EPManagerStore]    函数名称: buildTestUser
+文件: [旧 UserData <--> 新 EPManagerStore]    函数名称: makePost
+文件: [旧 UIApplication+Extension <--> 新 EPReleaseOption]    函数名称: topController
+文件: [旧 SS_PublishedPostMedia <--> 新 EPDelegateMenu]    函数名称: mediaDirectory
+文件: [旧 SS_PublishedPostMedia <--> 新 EPDelegateMenu]    函数名称: ensureDirectory
+文件: [旧 SS_PublishedPostMedia <--> 新 EPDelegateMenu]    函数名称: savePhoto
+文件: [旧 SS_PublishedPostMedia <--> 新 EPDelegateMenu]    函数名称: saveVideo
+文件: [旧 SS_PublishedPostMedia <--> 新 EPDelegateMenu]    函数名称: imageFileURL
+文件: [旧 SS_PublishedPostMedia <--> 新 EPDelegateMenu]    函数名称: videoFileURL
+文件: [旧 SS_PublishedPostMedia <--> 新 EPDelegateMenu]    函数名称: resolveVideoURL
+文件: [旧 SS_PublishedPostMedia <--> 新 EPDelegateMenu]    函数名称: resolvePostImageURL
+文件: [旧 UIViewController+EPReport <--> 新 EPEnergyBadge]    函数名称: ep_hidePost
+文件: [旧 UIViewController+EPReport <--> 新 EPEnergyBadge]    函数名称: ep_blockUser
+文件: [旧 UIViewController+EPReport <--> 新 EPEnergyBadge]    函数名称: ep_presentReportSheet
+文件: [旧 Date+Extension <--> 新 EPFriend]    函数名称: getNowTimeStamp
+文件: [旧 EP_CameraPermission <--> 新 EPToolLocalization]    函数名称: checkCameraAccess
+文件: [旧 EP_CameraPermission <--> 新 EPToolLocalization]    函数名称: showDeniedAlert
+文件: [旧 UIImage+Extension <--> 新 EPComment]    函数名称: ep_chat
+文件: [旧 UIImage+Extension <--> 新 EPComment]    函数名称: ep_avatar
+文件: [旧 UIImage+Extension <--> 新 EPComment]    函数名称: ss_scaled
+文件: [旧 UIImage+Extension <--> 新 EPComment]    函数名称: ep_named
+文件: [旧 UIImage+Extension <--> 新 EPComment]    函数名称: ep_rank
+文件: [旧 UIImage+Extension <--> 新 EPComment]    函数名称: rotatedClockwise90
+文件: [旧 SS_UserAvatarMedia <--> 新 EPContact]    函数名称: mediaDirectory
+文件: [旧 SS_UserAvatarMedia <--> 新 EPContact]    函数名称: ensureDirectory
+文件: [旧 SS_UserAvatarMedia <--> 新 EPContact]    函数名称: saveAvatar
+文件: [旧 SS_UserAvatarMedia <--> 新 EPContact]    函数名称: saveAvatar
+文件: [旧 SS_UserAvatarMedia <--> 新 EPContact]    函数名称: removeSavedAvatarIfPresent
+文件: [旧 SS_UserAvatarMedia <--> 新 EPContact]    函数名称: removeSavedAvatarIfPresent
+文件: [旧 SS_UserAvatarMedia <--> 新 EPContact]    函数名称: imageFileURL
+文件: [旧 SS_UserAvatarMedia <--> 新 EPContact]    函数名称: uiImage
+文件: [旧 EP_PostMedia <--> 新 EPWaiting]    函数名称: resolveImageURL
+文件: [旧 EP_PostMedia <--> 新 EPWaiting]    函数名称: resolveVideoURL
+文件: [旧 SS_UserVoiceMedia <--> 新 EPScreen]    函数名称: mediaDirectory
+文件: [旧 SS_UserVoiceMedia <--> 新 EPScreen]    函数名称: ensureDirectory
+文件: [旧 SS_UserVoiceMedia <--> 新 EPScreen]    函数名称: saveVoiceCopy
+文件: [旧 SS_UserVoiceMedia <--> 新 EPScreen]    函数名称: voiceFileURL
+文件: [旧 SS_UserVoiceMedia <--> 新 EPScreen]    函数名称: removeVoiceIfPresent
+文件: [旧 SS_BundleResourceMedia <--> 新 EPDots]    函数名称: firstURL
+文件: [旧 SS_BundleResourceMedia <--> 新 EPDots]    函数名称: chatImageURL
+文件: [旧 SS_BundleResourceMedia <--> 新 EPDots]    函数名称: chatImage
+文件: [旧 SS_BundleResourceMedia <--> 新 EPDots]    函数名称: rankImageURL
+文件: [旧 SS_BundleResourceMedia <--> 新 EPDots]    函数名称: rankImage
+文件: [旧 SS_BundleResourceMedia <--> 新 EPDots]    函数名称: friendImageURL
+文件: [旧 SS_BundleResourceMedia <--> 新 EPDots]    函数名称: postImageURL
+文件: [旧 SS_BundleResourceMedia <--> 新 EPDots]    函数名称: videoURL
+文件: [旧 SS_BundleResourceMedia <--> 新 EPDots]    函数名称: avatarImageURL
+文件: [旧 SS_BundleResourceMedia <--> 新 EPDots]    函数名称: voiceURL
+文件: [旧 SS_BundleResourceMedia <--> 新 EPDots]    函数名称: uiImage
+文件: [旧 SS_BundleResourceMedia <--> 新 EPDots]    函数名称: videoFirstFrame
+文件: [旧 String+Localization <--> 新 EPFeedConversation]    函数名称: getCurrentLanguage
+文件: [旧 String+Localization <--> 新 EPFeedConversation]    函数名称: setLanguage
+文件: [旧 String+Localization <--> 新 EPFeedConversation]    函数名称: getAvailableLanguages
+文件: [旧 EP_UserModel <--> 新 EPUserLaunch]    函数名称: decodeLegacyBadge
+文件: [旧 EP_UserModel <--> 新 EPUserLaunch]    函数名称: syncPostsAuthorInfo
+文件: [旧 EP_BadgeModel <--> 新 EPListEmpty]    函数名称: recordPublish
+文件: [旧 EP_ChatConversationModel <--> 新 EPAvatarHeader]    函数名称: listItem
+文件: [旧 EP_ChatConversationModel <--> 新 EPAvatarHeader]    函数名称: ep_chatListDateText
+文件: [旧 EP_PostModel <--> 新 EPHomeFeed]    函数名称: feedItem
+文件: [旧 EP_PostModel <--> 新 EPHomeFeed]    函数名称: toPostModel
+文件: [旧 EP_IAPManager <--> 新 EPBadgeWelcome]    函数名称: shopItems
+文件: [旧 EP_IAPManager <--> 新 EPBadgeWelcome]    函数名称: displayPrice
+文件: [旧 EP_IAPManager <--> 新 EPBadgeWelcome]    函数名称: loadProducts
+文件: [旧 EP_IAPManager <--> 新 EPBadgeWelcome]    函数名称: purchase
+文件: [旧 EP_IAPManager <--> 新 EPBadgeWelcome]    函数名称: checkVerified
+文件: [旧 EP_IAPManager <--> 新 EPBadgeWelcome]    函数名称: deliverCoins
+文件: [旧 EP_IAPManager <--> 新 EPBadgeWelcome]    函数名称: loadProcessedTransactionIds
+文件: [旧 EP_IAPManager <--> 新 EPBadgeWelcome]    函数名称: saveProcessedTransactionIds
+文件: [旧 EP_NetworkTool <--> 新 EPCamera]    函数名称: fetchHuaPl
+文件: [旧 EP_NetworkTool <--> 新 EPCamera]    函数名称: finishOnMain
+文件: [旧 EP_NetworkTool <--> 新 EPCamera]    函数名称: buildHuaPlURL
+文件: [旧 EP_CurrentUser <--> 新 EPRankMenu]    函数名称: signIn
+文件: [旧 EP_CurrentUser <--> 新 EPRankMenu]    函数名称: signInWithApple
+文件: [旧 EP_CurrentUser <--> 新 EPRankMenu]    函数名称: logout
+文件: [旧 EP_CurrentUser <--> 新 EPRankMenu]    函数名称: deleteAccountAndSignOut
+文件: [旧 EP_CurrentUser <--> 新 EPRankMenu]    函数名称: switchToWelcomeInterface
+文件: [旧 EP_CurrentUser <--> 新 EPRankMenu]    函数名称: refreshFromDatabase
+文件: [旧 EP_CurrentUser <--> 新 EPRankMenu]    函数名称: switchToMainInterface
+文件: [旧 EP_CurrentUser <--> 新 EPRankMenu]    函数名称: login
+文件: [旧 EP_CurrentUser <--> 新 EPRankMenu]    函数名称: restoreSession
+文件: [旧 EP_CurrentUser <--> 新 EPRankMenu]    函数名称: clearSessionFlags
+文件: [旧 EP_CurrentUser <--> 新 EPRankMenu]    函数名称: makeUserId
+
+
+开始混淆函数里面局部变量名称。。。。。。。
+文件: [旧 UserData <--> 新 EPManagerStore] 局部变量: hiddenIds -> track
+文件: [旧 UserData <--> 新 EPManagerStore] 局部变量: blockedUserIds -> color
+文件: [旧 UserData <--> 新 EPManagerStore] 局部变量: normalized -> name
+文件: [旧 UserData <--> 新 EPManagerStore] 局部变量: normalized -> name
+文件: [旧 UserData <--> 新 EPManagerStore] 局部变量: email -> fallback
+文件: [旧 UserData <--> 新 EPManagerStore] 局部变量: postsById -> member
+文件: [旧 UserData <--> 新 EPManagerStore] 局部变量: post -> updated
+文件: [旧 UserData <--> 新 EPManagerStore] 局部变量: wasLiked -> thumb
+文件: [旧 UserData <--> 新 EPManagerStore] 局部变量: updated -> person
+文件: [旧 UserData <--> 新 EPManagerStore] 局部变量: owner -> coins
+文件: [旧 UserData <--> 新 EPManagerStore] 局部变量: owner -> coins
+文件: [旧 UserData <--> 新 EPManagerStore] 局部变量: before -> failed
+文件: [旧 UserData <--> 新 EPManagerStore] 局部变量: deletedPostIds -> dot
+文件: [旧 UserData <--> 新 EPManagerStore] 局部变量: other -> latest
+文件: [旧 UserData <--> 新 EPManagerStore] 局部变量: post -> updated
+文件: [旧 UserData <--> 新 EPManagerStore] 局部变量: commentBefore -> safe
+文件: [旧 UserData <--> 新 EPManagerStore] 局部变量: deletedLikedPostIds -> interitem
+文件: [旧 UserData <--> 新 EPManagerStore] 局部变量: postIndex -> rect
+文件: [旧 UserData <--> 新 EPManagerStore] 局部变量: ownerId -> normalized
+文件: [旧 UserData <--> 新 EPManagerStore] 局部变量: owner -> coins
+文件: [旧 UserData <--> 新 EPManagerStore] 局部变量: newPost -> action
+文件: [旧 UserData <--> 新 EPManagerStore] 局部变量: owner -> coins
+文件: [旧 UserData <--> 新 EPManagerStore] 局部变量: newPost -> action
+文件: [旧 UserData <--> 新 EPManagerStore] 局部变量: flagKey -> tomorrow
+文件: [旧 UserData <--> 新 EPManagerStore] 局部变量: changed -> pixel
+文件: [旧 UserData <--> 新 EPManagerStore] 局部变量: post -> updated
+文件: [旧 UserData <--> 新 EPManagerStore] 局部变量: url -> back
+文件: [旧 UserData <--> 新 EPManagerStore] 局部变量: url -> back
+文件: [旧 UserData <--> 新 EPManagerStore] 局部变量: seedTest -> localized
+文件: [旧 UserData <--> 新 EPManagerStore] 局部变量: changed -> pixel
+文件: [旧 UserData <--> 新 EPManagerStore] 局部变量: seedTest -> localized
+文件: [旧 UserData <--> 新 EPManagerStore] 局部变量: changed -> pixel
+文件: [旧 UserData <--> 新 EPManagerStore] 局部变量: seedInfo -> local_1
+文件: [旧 UserData <--> 新 EPManagerStore] 局部变量: info -> caption
+文件: [旧 UserData <--> 新 EPManagerStore] 局部变量: changed -> pixel
+文件: [旧 UserData <--> 新 EPManagerStore] 局部变量: changed -> pixel
+文件: [旧 UserData <--> 新 EPManagerStore] 局部变量: postChanged -> form
+文件: [旧 UserData <--> 新 EPManagerStore] 局部变量: changed -> pixel
+文件: [旧 UserData <--> 新 EPManagerStore] 局部变量: resolved -> migrate
+文件: [旧 EP_CurrentUser <--> 新 EPRankMenu] 局部变量: normalized -> name
+文件: [旧 EP_CurrentUser <--> 新 EPRankMenu] 局部变量: pwd -> apple
+文件: [旧 EP_CurrentUser <--> 新 EPRankMenu] 局部变量: normalizedEmail -> selection
+文件: [旧 EP_CurrentUser <--> 新 EPRankMenu] 局部变量: displayName -> random
+文件: [旧 EP_CurrentUser <--> 新 EPRankMenu] 局部变量: userId -> content
+文件: [旧 EP_CurrentUser <--> 新 EPRankMenu] 局部变量: avatarKey -> start
+文件: [旧 EP_CurrentUser <--> 新 EPRankMenu] 局部变量: saved -> picked
+文件: [旧 EP_CurrentUser <--> 新 EPRankMenu] 局部变量: newUser -> int_zz
+文件: [旧 EP_CurrentUser <--> 新 EPRankMenu] 局部变量: trimmedAppleId -> calendar
+文件: [旧 EP_CurrentUser <--> 新 EPRankMenu] 局部变量: trimmedName -> deleted
+文件: [旧 EP_CurrentUser <--> 新 EPRankMenu] 局部变量: normalizedEmail -> selection
+文件: [旧 EP_CurrentUser <--> 新 EPRankMenu] 局部变量: accountEmail -> pixel
+文件: [旧 EP_CurrentUser <--> 新 EPRankMenu] 局部变量: name -> pwd
+文件: [旧 EP_CurrentUser <--> 新 EPRankMenu] 局部变量: userId -> content
+文件: [旧 EP_CurrentUser <--> 新 EPRankMenu] 局部变量: avatarKey -> start
+文件: [旧 EP_CurrentUser <--> 新 EPRankMenu] 局部变量: saved -> picked
+文件: [旧 EP_CurrentUser <--> 新 EPRankMenu] 局部变量: newUser -> int_zz
+文件: [旧 EP_CurrentUser <--> 新 EPRankMenu] 局部变量: root -> rebuild
+文件: [旧 EP_CurrentUser <--> 新 EPRankMenu] 局部变量: latest -> t_width
+文件: [旧 EP_CurrentUser <--> 新 EPRankMenu] 局部变量: root -> rebuild
+文件: [旧 EP_CurrentUser <--> 新 EPRankMenu] 局部变量: userId -> content
+文件: [旧 EP_CurrentUser <--> 新 EPRankMenu] 局部变量: stored -> blue
+文件: [旧 EP_ReleaseVC <--> 新 EPDataOptionController] 局部变量: picker -> infor
+文件: [旧 EP_ReleaseVC <--> 新 EPDataOptionController] 局部变量: content -> trailing
+文件: [旧 EP_ReleaseVC <--> 新 EPDataOptionController] 局部变量: newCoins -> outgoing
+文件: [旧 EP_ReleaseVC <--> 新 EPDataOptionController] 局部变量: postId -> key
+文件: [旧 EP_ReleaseVC <--> 新 EPDataOptionController] 局部变量: img -> profile
+文件: [旧 EP_ReleaseVC <--> 新 EPDataOptionController] 局部变量: video -> mic
+文件: [旧 EP_ReleaseVC <--> 新 EPDataOptionController] 局部变量: didAccess -> tool
+文件: [旧 EP_ReleaseVC <--> 新 EPDataOptionController] 局部变量: view -> areaView
+文件: [旧 EP_ShopProductCell <--> 新 EPSheetCell] 局部变量: stack -> field
+文件: [旧 EP_HomeHeaderView <--> 新 EPFeedScreenView] 局部变量: outTap -> refresh
+文件: [旧 EP_HomeHeaderView <--> 新 EPFeedScreenView] 局部变量: pushTap -> format
+文件: [旧 UIViewController+EPReport <--> 新 EPEnergyBadge] 局部变量: sheet -> remaining
+文件: [旧 EP_SetupVC <--> 新 EPGroupController] 局部变量: email -> fallback
+文件: [旧 EP_SetupVC <--> 新 EPGroupController] 局部变量: password -> mode4
+文件: [旧 EP_SetupVC <--> 新 EPGroupController] 局部变量: infoVC -> cameraController
+文件: [旧 EP_SetupVC <--> 新 EPGroupController] 局部变量: alert -> old
+文件: [旧 EP_SetupVC <--> 新 EPGroupController] 局部变量: imageName -> energy
+文件: [旧 EP_SetupVC <--> 新 EPGroupController] 局部变量: hasText -> sel
+文件: [旧 EP_SetupVC <--> 新 EPGroupController] 局部变量: label -> availableLabel
+文件: [旧 EP_SetupVC <--> 新 EPGroupController] 局部变量: view -> areaView
+文件: [旧 EP_SetupVC <--> 新 EPGroupController] 局部变量: field -> http
+文件: [旧 EP_SetupVC <--> 新 EPGroupController] 局部变量: field -> http
+文件: [旧 EP_SetupVC <--> 新 EPGroupController] 局部变量: field -> http
+文件: [旧 EP_SetupVC <--> 新 EPGroupController] 局部变量: button -> outgoingButton
+文件: [旧 EP_SetupVC <--> 新 EPGroupController] 局部变量: button -> outgoingButton
+文件: [旧 SS_BundleResourceMedia <--> 新 EPDots] 局部变量: bundle -> schedule
+文件: [旧 SS_BundleResourceMedia <--> 新 EPDots] 局部变量: root -> rebuild
+文件: [旧 SS_BundleResourceMedia <--> 新 EPDots] 局部变量: dir -> room
+文件: [旧 SS_BundleResourceMedia <--> 新 EPDots] 局部变量: u -> shop
+文件: [旧 SS_BundleResourceMedia <--> 新 EPDots] 局部变量: asset -> energy
+文件: [旧 SS_BundleResourceMedia <--> 新 EPDots] 局部变量: gen -> fitted
+文件: [旧 SS_BundleResourceMedia <--> 新 EPDots] 局部变量: cgImage -> delayImage
+文件: [旧 EP_BadgeVC <--> 新 EPModitySetupController] 局部变量: container -> scroll
+文件: [旧 EP_BadgeVC <--> 新 EPModitySetupController] 局部变量: titleLabel -> energyLabel
+文件: [旧 EP_BadgeVC <--> 新 EPModitySetupController] 局部变量: imageView -> otherView
+文件: [旧 EP_BadgeVC <--> 新 EPModitySetupController] 局部变量: valueLabel -> languageLabel
+文件: [旧 EP_BadgeVC <--> 新 EPModitySetupController] 局部变量: rowTitles -> two
+文件: [旧 EP_BadgeVC <--> 新 EPModitySetupController] 局部变量: row -> scripts
+文件: [旧 EP_BadgeVC <--> 新 EPModitySetupController] 局部变量: progress -> user
+文件: [旧 EP_BadgeVC <--> 新 EPModitySetupController] 局部变量: info -> caption
+文件: [旧 EP_BadgeVC <--> 新 EPModitySetupController] 局部变量: label -> availableLabel
+文件: [旧 EP_ChatStore <--> 新 EPEnergyData] 局部变量: url -> back
+文件: [旧 EP_ChatStore <--> 新 EPEnergyData] 局部变量: before -> failed
+文件: [旧 EP_ChatStore <--> 新 EPEnergyData] 局部变量: before -> failed
+文件: [旧 EP_ChatStore <--> 新 EPEnergyData] 局部变量: url -> back
+文件: [旧 EP_ChatStore <--> 新 EPEnergyData] 局部变量: trimmed -> avatars
+文件: [旧 EP_ChatStore <--> 新 EPEnergyData] 局部变量: message -> logged
+文件: [旧 EP_ChatStore <--> 新 EPEnergyData] 局部变量: now -> return_6
+文件: [旧 EP_ChatStore <--> 新 EPEnergyData] 局部变量: conversation -> map
+文件: [旧 EP_UserListVC <--> 新 EPSetupController] 局部变量: cellWidth -> chat
+文件: [旧 EP_UserListVC <--> 新 EPSetupController] 局部变量: currentUserId -> session
+文件: [旧 EP_UserListVC <--> 新 EPSetupController] 局部变量: targetUserId -> m_layer
+文件: [旧 EP_UserListVC <--> 新 EPSetupController] 局部变量: listUsers -> p_center
+文件: [旧 EP_UserListVC <--> 新 EPSetupController] 局部变量: followingIds -> device
+文件: [旧 EP_UserListVC <--> 新 EPSetupController] 局部变量: layout -> formatter
+文件: [旧 SS_PublishedPostMedia <--> 新 EPDelegateMenu] 局部变量: url -> back
+文件: [旧 SS_PublishedPostMedia <--> 新 EPDelegateMenu] 局部变量: base -> renderer
+文件: [旧 SS_PublishedPostMedia <--> 新 EPDelegateMenu] 局部变量: fileURL -> nanosecond
+文件: [旧 SS_PublishedPostMedia <--> 新 EPDelegateMenu] 局部变量: base -> renderer
+文件: [旧 SS_PublishedPostMedia <--> 新 EPDelegateMenu] 局部变量: dest -> timestamp
+文件: [旧 SS_PublishedPostMedia <--> 新 EPDelegateMenu] 局部变量: u -> shop
+文件: [旧 SS_PublishedPostMedia <--> 新 EPDelegateMenu] 局部变量: u -> shop
+文件: [旧 EP_ReportSheetVC <--> 新 EPConversationToolController] 局部变量: isSelected -> back
+文件: [旧 EP_ReportSheetVC <--> 新 EPConversationToolController] 局部变量: button -> outgoingButton
+文件: [旧 EP_ReportSheetVC <--> 新 EPConversationToolController] 局部变量: button -> outgoingButton
+文件: [旧 EP_ReportSheetVC <--> 新 EPConversationToolController] 局部变量: animation -> tapped
+文件: [旧 SS_UserVoiceMedia <--> 新 EPScreen] 局部变量: url -> back
+文件: [旧 SS_UserVoiceMedia <--> 新 EPScreen] 局部变量: base -> renderer
+文件: [旧 SS_UserVoiceMedia <--> 新 EPScreen] 局部变量: dest -> timestamp
+文件: [旧 SS_UserVoiceMedia <--> 新 EPScreen] 局部变量: u -> shop
+文件: [旧 SS_UserVoiceMedia <--> 新 EPScreen] 局部变量: base -> renderer
+文件: [旧 EP_FriendCell <--> 新 EPFeedInfoCell] 局部变量: button -> outgoingButton
+文件: [旧 String+Localization <--> 新 EPFeedConversation] 局部变量: format -> detail
+文件: [旧 String+Localization <--> 新 EPFeedConversation] 局部变量: systemLanguage -> overlay
+文件: [旧 String+Localization <--> 新 EPFeedConversation] 局部变量: previousLanguage -> fallback
+文件: [旧 String+Localization <--> 新 EPFeedConversation] 局部变量: languages -> response
+文件: [旧 String+Localization <--> 新 EPFeedConversation] 局部变量: languageNameMap -> before
+文件: [旧 String+Localization <--> 新 EPFeedConversation] 局部变量: availableLanguageCodes -> r_products
+文件: [旧 String+Localization <--> 新 EPFeedConversation] 局部变量: displayName -> random
+文件: [旧 String+Localization <--> 新 EPFeedConversation] 局部变量: locale -> active
+文件: [旧 String+Localization <--> 新 EPFeedConversation] 局部变量: currentLanguage -> iso
+文件: [旧 EP_CameraPreviewView <--> 新 EPEditPermissionView] 局部变量: input -> min_c8
+文件: [旧 EP_ChallengeStore <--> 新 EPFriendChallenge] 局部变量: likedIds -> infor
+文件: [旧 EP_ChallengeStore <--> 新 EPFriendChallenge] 局部变量: isLiked -> action
+文件: [旧 EP_ChallengeStore <--> 新 EPFriendChallenge] 局部变量: liked -> formatted
+文件: [旧 EP_HomeVC <--> 新 EPNetworkPermissionController] 局部变量: videoPosts -> latest
+文件: [旧 EP_HomeVC <--> 新 EPNetworkPermissionController] 局部变量: items -> open
+文件: [旧 EP_HomeVC <--> 新 EPNetworkPermissionController] 局部变量: cover -> year
+文件: [旧 EP_HomeVC <--> 新 EPNetworkPermissionController] 局部变量: width -> scroll
+文件: [旧 EP_HomeVC <--> 新 EPNetworkPermissionController] 局部变量: totalHorizontalSpacing -> bottom
+文件: [旧 EP_HomeVC <--> 新 EPNetworkPermissionController] 局部变量: cellWidth -> chat
+文件: [旧 EP_HomeVC <--> 新 EPNetworkPermissionController] 局部变量: cellHeight -> users
+文件: [旧 EP_HomeVC <--> 新 EPNetworkPermissionController] 局部变量: layout -> formatter
+文件: [旧 EP_HomeVC <--> 新 EPNetworkPermissionController] 局部变量: header -> catalogHeader
+文件: [旧 EP_HomeVC <--> 新 EPNetworkPermissionController] 局部变量: homeItem -> testItem
+文件: [旧 EP_HomeVC <--> 新 EPNetworkPermissionController] 局部变量: detailVC -> iconController
+文件: [旧 EP_SettingVC <--> 新 EPResourceController] 局部变量: width -> scroll
+文件: [旧 EP_SettingVC <--> 新 EPResourceController] 局部变量: rowHeight -> mode
+文件: [旧 EP_SettingVC <--> 新 EPResourceController] 局部变量: imageHeight -> pending
+文件: [旧 EP_SettingVC <--> 新 EPResourceController] 局部变量: alert -> old
+文件: [旧 EP_SettingVC <--> 新 EPResourceController] 局部变量: alert -> old
+文件: [旧 EP_SettingVC <--> 新 EPResourceController] 局部变量: tableWidth -> a_title
+文件: [旧 EP_SettingVC <--> 新 EPResourceController] 局部变量: width -> scroll
+文件: [旧 EP_SettingVC <--> 新 EPResourceController] 局部变量: image -> activeImage
+文件: [旧 EP_SettingVC <--> 新 EPResourceController] 局部变量: imageHeight -> pending
+文件: [旧 EP_GroupRoomHeaderView <--> 新 EPDataVideoView] 局部变量: layout -> formatter
+文件: [旧 EP_GroupRoomHeaderView <--> 新 EPDataVideoView] 局部变量: collectionView -> reviseView
+文件: [旧 EP_DetailInputView <--> 新 EPDatabaseView] 局部变量: text -> future
+文件: [旧 EP_DetailInputView <--> 新 EPDatabaseView] 局部变量: field -> http
+文件: [旧 EP_EditVC <--> 新 EPBadgeDatabaseController] 局部变量: picker -> infor
+文件: [旧 EP_EditVC <--> 新 EPBadgeDatabaseController] 局部变量: imgTap -> days
+文件: [旧 EP_EditVC <--> 新 EPBadgeDatabaseController] 局部变量: alert -> old
+文件: [旧 EP_EditVC <--> 新 EPBadgeDatabaseController] 局部变量: name -> pwd
+文件: [旧 EP_EditVC <--> 新 EPBadgeDatabaseController] 局部变量: newAvatarKey -> x_height
+文件: [旧 EP_EditVC <--> 新 EPBadgeDatabaseController] 局部变量: saved -> picked
+文件: [旧 EP_EditVC <--> 新 EPBadgeDatabaseController] 局部变量: nameChanged -> placeholder
+文件: [旧 EP_EditVC <--> 新 EPBadgeDatabaseController] 局部变量: avatarChanged -> field
+文件: [旧 EP_EditVC <--> 新 EPBadgeDatabaseController] 局部变量: field -> http
+文件: [旧 EP_TabBarVC <--> 新 EPDatabaseConversationController] 局部变量: controller -> createController
+文件: [旧 EP_TabBarVC <--> 新 EPDatabaseConversationController] 局部变量: appearance -> profile
+文件: [旧 EP_TabBarVC <--> 新 EPDatabaseConversationController] 局部变量: itemAppearance -> unix
+文件: [旧 EP_TabBarVC <--> 新 EPDatabaseConversationController] 局部变量: safeBottom -> revise
+文件: [旧 EP_TabBarVC <--> 新 EPDatabaseConversationController] 局部变量: tabBarHeight -> overlay
+文件: [旧 EP_ProfileVC <--> 新 EPDatabaseReleaseController] 局部变量: header -> catalogHeader
+文件: [旧 EP_ProfileVC <--> 新 EPDatabaseReleaseController] 局部变量: vc -> visibleController
+文件: [旧 EP_ProfileVC <--> 新 EPDatabaseReleaseController] 局部变量: firstPost -> week
+文件: [旧 EP_ProfileVC <--> 新 EPDatabaseReleaseController] 局部变量: viewerId -> cropped
+文件: [旧 EP_ProfileVC <--> 新 EPDatabaseReleaseController] 局部变量: postId -> key
+文件: [旧 EP_ProfileVC <--> 新 EPDatabaseReleaseController] 局部变量: item -> appItem
+文件: [旧 EP_ProfileVC <--> 新 EPDatabaseReleaseController] 局部变量: item -> appItem
+文件: [旧 UIImage+Extension <--> 新 EPComment] 局部变量: maxDim -> device
+文件: [旧 UIImage+Extension <--> 新 EPComment] 局部变量: scale -> provider
+文件: [旧 UIImage+Extension <--> 新 EPComment] 局部变量: newSize -> using_42
+文件: [旧 UIImage+Extension <--> 新 EPComment] 局部变量: renderer -> locale
+文件: [旧 UIImage+Extension <--> 新 EPComment] 局部变量: scale -> provider
+文件: [旧 UIImage+Extension <--> 新 EPComment] 局部变量: pixelRect -> padding
+文件: [旧 UIImage+Extension <--> 新 EPComment] 局部变量: cropped -> options
+文件: [旧 UIImage+Extension <--> 新 EPComment] 局部变量: format -> detail
+文件: [旧 UIImage+Extension <--> 新 EPComment] 局部变量: renderer -> locale
+文件: [旧 UIImage+Extension <--> 新 EPComment] 局部变量: c -> items
+文件: [旧 EP_ContactVC <--> 新 EPFriendsListController] 局部变量: button -> outgoingButton
+文件: [旧 EP_ContactVC <--> 新 EPFriendsListController] 局部变量: button -> outgoingButton
+文件: [旧 EP_ChatConversationModel <--> 新 EPAvatarHeader] 局部变量: trimmedId -> peerC
+文件: [旧 EP_FriendsVC <--> 新 EPHomeController] 局部变量: fanSet -> delay
+文件: [旧 EP_FriendsVC <--> 新 EPHomeController] 局部变量: userIds -> u_badge
+文件: [旧 EP_FriendsVC <--> 新 EPHomeController] 局部变量: isMutual -> dot
+文件: [旧 EP_FriendsVC <--> 新 EPHomeController] 局部变量: deleteAction -> blank
+文件: [旧 EP_FriendsVC <--> 新 EPHomeController] 局部变量: configuration -> pixel
+文件: [旧 EP_FriendsVC <--> 新 EPHomeController] 局部变量: item -> appItem
+文件: [旧 EP_FriendsVC <--> 新 EPHomeController] 局部变量: ownerId -> normalized
+文件: [旧 EP_FriendsVC <--> 新 EPHomeController] 局部变量: targetId -> minutes
+文件: [旧 EP_PostVC <--> 新 EPSettingController] 局部变量: aiTap -> infor
+文件: [旧 EP_PostVC <--> 新 EPSettingController] 局部变量: cosTap -> selection
+文件: [旧 EP_PostVC <--> 新 EPSettingController] 局部变量: posts -> call
+文件: [旧 EP_PostVC <--> 新 EPSettingController] 局部变量: viewerId -> cropped
+文件: [旧 EP_PostVC <--> 新 EPSettingController] 局部变量: items -> open
+文件: [旧 EP_PostVC <--> 新 EPSettingController] 局部变量: post -> updated
+文件: [旧 EP_PostVC <--> 新 EPSettingController] 局部变量: viewerId -> cropped
+文件: [旧 EP_PostVC <--> 新 EPSettingController] 局部变量: postId -> key
+文件: [旧 EP_PostVC <--> 新 EPSettingController] 局部变量: item -> appItem
+文件: [旧 EP_UserModel <--> 新 EPUserLaunch] 局部变量: firstPost -> week
+文件: [旧 EP_UserModel <--> 新 EPUserLaunch] 局部变量: coverName -> int_cj
+文件: [旧 EP_CameraPermission <--> 新 EPToolLocalization] 局部变量: alert -> old
+文件: [旧 EP_ShopVC <--> 新 EPMediaDatabaseController] 局部变量: cellWidth -> chat
+文件: [旧 EP_ShopVC <--> 新 EPMediaDatabaseController] 局部变量: w -> home
+文件: [旧 EP_ShopVC <--> 新 EPMediaDatabaseController] 局部变量: product -> following
+文件: [旧 EP_ShopVC <--> 新 EPMediaDatabaseController] 局部变量: success -> line
+文件: [旧 EP_ShopVC <--> 新 EPMediaDatabaseController] 局部变量: indexPath -> nav
+文件: [旧 EP_ShopVC <--> 新 EPMediaDatabaseController] 局部变量: layout -> formatter
+文件: [旧 EP_BadgeProgressView <--> 新 EPPostListView] 局部变量: fillWidth -> bottom
+文件: [旧 EP_WaitingDotsView <--> 新 EPProductPreviewView] 局部变量: animation -> tapped
+文件: [旧 EP_WaitingDotsView <--> 新 EPProductPreviewView] 局部变量: dotSize -> total0
+文件: [旧 EP_WaitingDotsView <--> 新 EPProductPreviewView] 局部变量: spacing -> fill
+文件: [旧 EP_WaitingDotsView <--> 新 EPProductPreviewView] 局部变量: totalWidth -> sel
+文件: [旧 EP_WaitingDotsView <--> 新 EPProductPreviewView] 局部变量: x -> check
+文件: [旧 EP_WaitingDotsView <--> 新 EPProductPreviewView] 局部变量: y -> language
+文件: [旧 UIApplication+Extension <--> 新 EPReleaseOption] 局部变量: lendo_window -> outgoing
+文件: [旧 EP_PersonHeaderView <--> 新 EPFeedView] 局部变量: side -> store
+文件: [旧 EP_NetworkTool <--> 新 EPCamera] 局部变量: configuration -> pixel
+文件: [旧 EP_NetworkTool <--> 新 EPCamera] 局部变量: language -> panel
+文件: [旧 EP_NetworkTool <--> 新 EPCamera] 局部变量: request -> index
+文件: [旧 EP_NetworkTool <--> 新 EPCamera] 局部变量: json -> goal
+文件: [旧 EP_NetworkTool <--> 新 EPCamera] 局部变量: components -> five
+文件: [旧 EP_RoomVC <--> 新 EPBadgeController] 局部变量: width -> scroll
+文件: [旧 EP_RoomVC <--> 新 EPBadgeController] 局部变量: cellWidth -> chat
+文件: [旧 EP_RoomVC <--> 新 EPBadgeController] 局部变量: layout -> formatter
+文件: [旧 EP_RoomVC <--> 新 EPBadgeController] 局部变量: room -> options
+文件: [旧 EP_RoomVC <--> 新 EPBadgeController] 局部变量: room -> options
+文件: [旧 UIColor+Extension <--> 新 EPLocalizationTool] 局部变量: red -> formatted
+文件: [旧 UIColor+Extension <--> 新 EPLocalizationTool] 局部变量: green -> nav
+文件: [旧 UIColor+Extension <--> 新 EPLocalizationTool] 局部变量: blue -> nanosecond
+文件: [旧 UIColor+Extension <--> 新 EPLocalizationTool] 局部变量: cString -> email
+文件: [旧 UIColor+Extension <--> 新 EPLocalizationTool] 局部变量: range -> migrate
+文件: [旧 UIColor+Extension <--> 新 EPLocalizationTool] 局部变量: rString -> millisecond
+文件: [旧 UIColor+Extension <--> 新 EPLocalizationTool] 局部变量: gString -> bar
+文件: [旧 UIColor+Extension <--> 新 EPLocalizationTool] 局部变量: bString -> description_fj
+文件: [旧 UIColor+Extension <--> 新 EPLocalizationTool] 局部变量: r -> seconds
+文件: [旧 EP_VideoVC <--> 新 EPBaseController] 局部变量: player -> off
+文件: [旧 EP_VideoVC <--> 新 EPBaseController] 局部变量: layer -> configuration
+文件: [旧 EP_VideoVC <--> 新 EPBaseController] 局部变量: stack -> field
+文件: [旧 EP_VideoVC <--> 新 EPBaseController] 局部变量: button -> outgoingButton
+文件: [旧 EP_VideoVC <--> 新 EPBaseController] 局部变量: button -> outgoingButton
+文件: [旧 String+Extension <--> 新 EPPost] 局部变量: regex -> launch
+文件: [旧 String+Extension <--> 新 EPPost] 局部变量: format -> detail
+文件: [旧 String+Extension <--> 新 EPPost] 局部变量: currentDate -> color
+文件: [旧 String+Extension <--> 新 EPPost] 局部变量: timeInterval -> close
+文件: [旧 SS_UserAvatarMedia <--> 新 EPContact] 局部变量: url -> back
+文件: [旧 SS_UserAvatarMedia <--> 新 EPContact] 局部变量: base -> renderer
+文件: [旧 SS_UserAvatarMedia <--> 新 EPContact] 局部变量: fileURL -> nanosecond
+文件: [旧 SS_UserAvatarMedia <--> 新 EPContact] 局部变量: base -> renderer
+文件: [旧 SS_UserAvatarMedia <--> 新 EPContact] 局部变量: u -> shop
+文件: [旧 EP_PersonVC <--> 新 EPWelcomeScreenController] 局部变量: user -> row
+文件: [旧 EP_PersonVC <--> 新 EPWelcomeScreenController] 局部变量: bottomInset -> dim
+文件: [旧 EP_PersonVC <--> 新 EPWelcomeScreenController] 局部变量: width -> scroll
+文件: [旧 EP_PersonVC <--> 新 EPWelcomeScreenController] 局部变量: height -> off
+文件: [旧 EP_PersonVC <--> 新 EPWelcomeScreenController] 局部变量: user -> row
+文件: [旧 EP_PersonVC <--> 新 EPWelcomeScreenController] 局部变量: viewerId -> cropped
+文件: [旧 EP_PersonVC <--> 新 EPWelcomeScreenController] 局部变量: viewerId -> cropped
+文件: [旧 EP_PersonVC <--> 新 EPWelcomeScreenController] 局部变量: item -> appItem
+文件: [旧 EP_PersonVC <--> 新 EPWelcomeScreenController] 局部变量: item -> appItem
+文件: [旧 EP_AIRoomVC <--> 新 EPGroupPostController] 局部变量: trimmed -> avatars
+文件: [旧 EP_AIRoomVC <--> 新 EPGroupPostController] 局部变量: indexPath -> nav
+文件: [旧 EP_AIRoomVC <--> 新 EPGroupPostController] 局部变量: delay -> apple
+文件: [旧 EP_AIRoomVC <--> 新 EPGroupPostController] 局部变量: avatar -> resource
+文件: [旧 EP_PostFeedCell <--> 新 EPSettingCell] 局部变量: currentUserId -> session
+文件: [旧 EP_PostFeedCell <--> 新 EPSettingCell] 局部变量: button -> outgoingButton
+文件: [旧 EP_PostFeedCell <--> 新 EPSettingCell] 局部变量: alert -> old
+文件: [旧 EP_PostFeedCell <--> 新 EPSettingCell] 局部变量: stack -> field
+文件: [旧 EP_PostFeedCell <--> 新 EPSettingCell] 局部变量: button -> outgoingButton
+文件: [旧 EP_PostFeedCell <--> 新 EPSettingCell] 局部变量: stack -> field
+文件: [旧 EP_PostFeedCell <--> 新 EPSettingCell] 局部变量: responder -> doc
+文件: [旧 Date+Extension <--> 新 EPFriend] 局部变量: dateFormatter -> components
+文件: [旧 Date+Extension <--> 新 EPFriend] 局部变量: month -> provider
+文件: [旧 Date+Extension <--> 新 EPFriend] 局部变量: numberOfMonths -> show
+文件: [旧 Date+Extension <--> 新 EPFriend] 局部变量: numberOfMonthsInQuarter -> week
+文件: [旧 Date+Extension <--> 新 EPFriend] 局部变量: currentYear -> credential
+文件: [旧 Date+Extension <--> 新 EPFriend] 局部变量: yearsToAdd -> random
+文件: [旧 Date+Extension <--> 新 EPFriend] 局部变量: allowedRange -> aspect
+文件: [旧 Date+Extension <--> 新 EPFriend] 局部变量: currentMonth -> nav
+文件: [旧 Date+Extension <--> 新 EPFriend] 局部变量: monthsToAdd -> options
+文件: [旧 Date+Extension <--> 新 EPFriend] 局部变量: allowedRange -> aspect
+文件: [旧 Date+Extension <--> 新 EPFriend] 局部变量: currentDay -> y_center
+文件: [旧 Date+Extension <--> 新 EPFriend] 局部变量: daysToAdd -> dir
+文件: [旧 Date+Extension <--> 新 EPFriend] 局部变量: allowedRange -> aspect
+文件: [旧 Date+Extension <--> 新 EPFriend] 局部变量: currentHour -> text
+文件: [旧 Date+Extension <--> 新 EPFriend] 局部变量: hoursToAdd -> z_title
+文件: [旧 Date+Extension <--> 新 EPFriend] 局部变量: allowedRange -> aspect
+文件: [旧 Date+Extension <--> 新 EPFriend] 局部变量: currentMinutes -> interitem
+文件: [旧 Date+Extension <--> 新 EPFriend] 局部变量: minutesToAdd -> photo
+文件: [旧 Date+Extension <--> 新 EPFriend] 局部变量: allowedRange -> aspect
+文件: [旧 Date+Extension <--> 新 EPFriend] 局部变量: currentSeconds -> red
+文件: [旧 Date+Extension <--> 新 EPFriend] 局部变量: secondsToAdd -> product
+文件: [旧 Date+Extension <--> 新 EPFriend] 局部变量: allowedRange -> aspect
+文件: [旧 Date+Extension <--> 新 EPFriend] 局部变量: currentNanoseconds -> green
+文件: [旧 Date+Extension <--> 新 EPFriend] 局部变量: nanosecondsToAdd -> resolve
+文件: [旧 Date+Extension <--> 新 EPFriend] 局部变量: nanoSeconds -> avatar
+文件: [旧 Date+Extension <--> 新 EPFriend] 局部变量: allowedRange -> aspect
+文件: [旧 Date+Extension <--> 新 EPFriend] 局部变量: dateFormatter -> components
+文件: [旧 Date+Extension <--> 新 EPFriend] 局部变量: components -> five
+文件: [旧 Date+Extension <--> 新 EPFriend] 局部变量: components -> five
+文件: [旧 Date+Extension <--> 新 EPFriend] 局部变量: components -> five
+文件: [旧 Date+Extension <--> 新 EPFriend] 局部变量: components -> five
+文件: [旧 Date+Extension <--> 新 EPFriend] 局部变量: components -> five
+文件: [旧 Date+Extension <--> 新 EPFriend] 局部变量: date -> nanoseconds
+文件: [旧 EP_PostMedia <--> 新 EPWaiting] 局部变量: url -> back
+文件: [旧 EP_PostMedia <--> 新 EPWaiting] 局部变量: url -> back
+文件: [旧 EP_SetupInfoVC <--> 新 EPContactController] 局部变量: image -> activeImage
+文件: [旧 EP_DetailHeaderView <--> 新 EPCenterView] 局部变量: coverTap -> stats
+文件: [旧 EP_DetailHeaderView <--> 新 EPCenterView] 局部变量: stack -> field
+文件: [旧 EP_DetailHeaderView <--> 新 EPCenterView] 局部变量: button -> outgoingButton
+文件: [旧 EP_DetailHeaderView <--> 新 EPCenterView] 局部变量: stack -> field
+文件: [旧 EP_DetailHeaderView <--> 新 EPCenterView] 局部变量: button -> outgoingButton
+文件: [旧 EP_IAPManager <--> 新 EPBadgeWelcome] 局部变量: ids -> interval_7y
+文件: [旧 EP_IAPManager <--> 新 EPBadgeWelcome] 局部变量: products -> allowed
+文件: [旧 EP_IAPManager <--> 新 EPBadgeWelcome] 局部变量: map -> open
+文件: [旧 EP_IAPManager <--> 新 EPBadgeWelcome] 局部变量: transaction -> challenge
+文件: [旧 EP_IAPManager <--> 新 EPBadgeWelcome] 局部变量: delivered -> n_layer
+文件: [旧 EP_IAPManager <--> 新 EPBadgeWelcome] 局部变量: transaction -> challenge
+文件: [旧 EP_IAPManager <--> 新 EPBadgeWelcome] 局部变量: productId -> animating
+文件: [旧 EP_IAPManager <--> 新 EPBadgeWelcome] 局部变量: userId -> content
+文件: [旧 EP_IAPManager <--> 新 EPBadgeWelcome] 局部变量: user -> row
+文件: [旧 EP_IAPManager <--> 新 EPBadgeWelcome] 局部变量: strings -> bar
+文件: [旧 EP_IAPManager <--> 新 EPBadgeWelcome] 局部变量: strings -> bar
+文件: [旧 EP_PostModel <--> 新 EPHomeFeed] 局部变量: liked -> formatted
+文件: [旧 EP_UserListCell <--> 新 EPLocalCell] 局部变量: imageName -> energy
+文件: [旧 EP_UserListCell <--> 新 EPLocalCell] 局部变量: side -> store
+文件: [旧 EP_ChallengeVC <--> 新 EPHeaderController] 局部变量: ownerId -> normalized
+文件: [旧 EP_ChallengeVC <--> 新 EPHeaderController] 局部变量: challengeId -> failed
+文件: [旧 EP_ChallengeVC <--> 新 EPHeaderController] 局部变量: width -> scroll
+文件: [旧 EP_ChallengeVC <--> 新 EPHeaderController] 局部变量: totalHorizontalSpacing -> bottom
+文件: [旧 EP_ChallengeVC <--> 新 EPHeaderController] 局部变量: cellWidth -> chat
+文件: [旧 EP_ChallengeVC <--> 新 EPHeaderController] 局部变量: cellHeight -> users
+文件: [旧 EP_ChallengeVC <--> 新 EPHeaderController] 局部变量: layout -> formatter
+文件: [旧 EP_WelcomeVC <--> 新 EPReportController] 局部变量: provider -> y_center
+文件: [旧 EP_WelcomeVC <--> 新 EPReportController] 局部变量: request -> index
+文件: [旧 EP_WelcomeVC <--> 新 EPReportController] 局部变量: controller -> createController
+文件: [旧 EP_WelcomeVC <--> 新 EPReportController] 局部变量: appleUserId -> mutual
+文件: [旧 EP_WelcomeVC <--> 新 EPReportController] 局部变量: displayName -> random
+文件: [旧 EP_WelcomeVC <--> 新 EPReportController] 局部变量: email -> fallback
+文件: [旧 EP_WelcomeVC <--> 新 EPReportController] 局部变量: avatarImage -> progressImage
+文件: [旧 EP_WelcomeVC <--> 新 EPReportController] 局部变量: formatter -> week
+文件: [旧 EP_WelcomeVC <--> 新 EPReportController] 局部变量: formatted -> reuse
+文件: [旧 EP_WelcomeVC <--> 新 EPReportController] 局部变量: fallbackName -> normalized
+文件: [旧 EP_WelcomeVC <--> 新 EPReportController] 局部变量: nameForInitials -> field
+文件: [旧 EP_WelcomeVC <--> 新 EPReportController] 局部变量: parts -> dest
+文件: [旧 EP_WelcomeVC <--> 新 EPReportController] 局部变量: initials -> page
+文件: [旧 EP_WelcomeVC <--> 新 EPReportController] 局部变量: renderer -> locale
+文件: [旧 EP_WelcomeVC <--> 新 EPReportController] 局部变量: rect -> changed
+文件: [旧 EP_WelcomeVC <--> 新 EPReportController] 局部变量: cg -> parts3
+文件: [旧 EP_WelcomeVC <--> 新 EPReportController] 局部变量: font -> request
+文件: [旧 EP_WelcomeVC <--> 新 EPReportController] 局部变量: attributes -> own
+文件: [旧 EP_WelcomeVC <--> 新 EPReportController] 局部变量: text -> future
+文件: [旧 EP_WelcomeVC <--> 新 EPReportController] 局部变量: textSize -> active
+文件: [旧 EP_WelcomeVC <--> 新 EPReportController] 局部变量: origin -> oldh
+文件: [旧 EP_WelcomeVC <--> 新 EPReportController] 局部变量: button -> outgoingButton
+文件: [旧 EP_WelcomeVC <--> 新 EPReportController] 局部变量: config -> titles
+文件: [旧 EP_WelcomeVC <--> 新 EPReportController] 局部变量: outgoing -> scale
+文件: [旧 EP_WelcomeVC <--> 新 EPReportController] 局部变量: nsError -> allowed
+文件: [旧 EP_GroupRoomVC <--> 新 EPFeedCurrentController] 局部变量: delay -> apple
+文件: [旧 EP_GroupRoomVC <--> 新 EPFeedCurrentController] 局部变量: work -> launch
+文件: [旧 EP_GroupRoomVC <--> 新 EPFeedCurrentController] 局部变量: text -> future
+文件: [旧 EP_GroupRoomVC <--> 新 EPFeedCurrentController] 局部变量: userName -> l_height
+文件: [旧 EP_GroupRoomVC <--> 新 EPFeedCurrentController] 局部变量: header -> catalogHeader
+文件: [旧 EP_GroupRoomVC <--> 新 EPFeedCurrentController] 局部变量: width -> scroll
+文件: [旧 EP_GroupRoomVC <--> 新 EPFeedCurrentController] 局部变量: name -> pwd
+文件: [旧 EP_GroupRoomVC <--> 新 EPFeedCurrentController] 局部变量: indexPath -> nav
+文件: [旧 EP_GroupRoomVC <--> 新 EPFeedCurrentController] 局部变量: alert -> old
+文件: [旧 EP_GroupRoomVC <--> 新 EPFeedCurrentController] 局部变量: alert -> old
+文件: [旧 EP_GroupRoomVC <--> 新 EPFeedCurrentController] 局部变量: label -> availableLabel
+文件: [旧 EP_HomeCell <--> 新 EPVoiceCell] 局部变量: stack -> field
+文件: [旧 EP_LocalDatabase <--> 新 EPDetail] 局部变量: users -> remain
+文件: [旧 EP_LocalDatabase <--> 新 EPDetail] 局部变量: legacy -> append
+文件: [旧 EP_ChatVC <--> 新 EPPostController] 局部变量: deleteAction -> blank
+文件: [旧 EP_ChatVC <--> 新 EPPostController] 局部变量: peerId -> trailingw
+文件: [旧 EP_ChatVC <--> 新 EPPostController] 局部变量: configuration -> pixel
+文件: [旧 EP_ChatVC <--> 新 EPPostController] 局部变量: item -> appItem
+文件: [旧 EP_PersonMenuView <--> 新 EPReleaseMessageView] 局部变量: stack -> field
+文件: [旧 EP_PersonMenuView <--> 新 EPReleaseMessageView] 局部变量: button -> outgoingButton
+文件: [旧 EP_PersonMenuView <--> 新 EPReleaseMessageView] 局部变量: button -> outgoingButton
+文件: [旧 EP_PersonMenuView <--> 新 EPReleaseMessageView] 局部变量: button -> outgoingButton
+文件: [旧 EP_TabBar <--> 新 EPConversation] 局部变量: fitted -> media
+文件: [旧 EP_TabBar <--> 新 EPConversation] 局部变量: bottomInset -> dim
+文件: [旧 EP_TabBar <--> 新 EPConversation] 局部变量: iconAreaTop -> nano
+文件: [旧 EP_DetailVC <--> 新 EPLoginHeaderController] 局部变量: viewerId -> cropped
+文件: [旧 EP_DetailVC <--> 新 EPLoginHeaderController] 局部变量: header -> catalogHeader
+文件: [旧 EP_DetailVC <--> 新 EPLoginHeaderController] 局部变量: width -> scroll
+文件: [旧 EP_DetailVC <--> 新 EPLoginHeaderController] 局部变量: trimmed -> avatars
+文件: [旧 EP_DetailVC <--> 新 EPLoginHeaderController] 局部变量: currentUser -> path
+文件: [旧 EP_DetailVC <--> 新 EPLoginHeaderController] 局部变量: comment -> member
+文件: [旧 EP_DetailVC <--> 新 EPLoginHeaderController] 局部变量: indexPath -> nav
+文件: [旧 EP_DetailVC <--> 新 EPLoginHeaderController] 局部变量: viewerId -> cropped
+文件: [旧 EP_ProfileHeaderView <--> 新 EPCurrentView] 局部变量: button -> outgoingButton
+文件: [旧 EP_ProfileHeaderView <--> 新 EPCurrentView] 局部变量: side -> store
+文件: [旧 EP_ProfileHeaderView <--> 新 EPCurrentView] 局部变量: releaseSelected -> horizontal
+文件: [旧 EP_ProfileHeaderView <--> 新 EPCurrentView] 局部变量: v -> previewView
+文件: [旧 EP_ProfileHeaderView <--> 新 EPCurrentView] 局部变量: v -> previewView
+文件: [旧 EP_ProfileHeaderView <--> 新 EPCurrentView] 局部变量: stack -> field
+文件: [旧 EP_RoomCell <--> 新 EPReleaseNewsCell] 局部变量: names -> folder
+文件: [旧 EP_RoomCell <--> 新 EPReleaseNewsCell] 局部变量: avatarView -> originView
+文件: [旧 EP_ChatRoomVC <--> 新 EPToolDetailController] 局部变量: header -> catalogHeader
+文件: [旧 EP_ChatRoomVC <--> 新 EPToolDetailController] 局部变量: width -> scroll
+文件: [旧 EP_ChatRoomVC <--> 新 EPToolDetailController] 局部变量: avatar -> resource
+文件: [旧 EP_ChatRoomVC <--> 新 EPToolDetailController] 局部变量: indexPath -> nav
+文件: [旧 EP_ChatRoomVC <--> 新 EPToolDetailController] 局部变量: alert -> old
+文件: [旧 EP_ChatRoomVC <--> 新 EPToolDetailController] 局部变量: resolvedId -> remove
+文件: [旧 AppDelegate <--> 新 AppDelegate] 局部变量: launchVC -> pageController
+
+
+开始自动生成垃圾代码文件。。。。。。。
+100%👌
+
+
+开始自动融合生成的垃圾代码文件。。。。。。
+100%👌
+
+
+开始自动加密混淆字符串。。。。。。。
+"Sign in with Apple failed. Please try again."
+"Apple User"
+" "
+"A"
+"Sign in with Apple"
+"apple.logo"
+"Create Account"
+"Sign in"
+"wel_bg"
+"Sign in with Apple was cancelled or failed."
+"Unable to read Apple ID credentials."
+"init(coder:) has not been implemented"
+"login_card"
+"login_next"
+"setup_card"
+"setup_button"
+"Invalid email or password."
+"Please enter email and password."
+"OK"
+"login_show"
+"login_hidden"
+"#F1F1F1"
+"common_back"
+"Mail"
+"Password"
+"login_close"
+"login_hidden"
+"init(coder:) has not been implemented"
+"Please enter your name."
+"avatar_01"
+"Could not create account. Email may already be in use."
+"OK"
+"#F1F1F1"
+"common_back"
+"setup_card"
+"setup_button"
+"Avatar"
+"Name"
+"#F1F1F1"
+"login_pic"
+"init(coder:) has not been implemented"
+"#F1F1F1"
+"Publish 10 works"
+"Received 20 likes"
+"Gained 10 followers"
+"Dimension"
+"badge_dimen"
+"badge_dimen_sel"
+"Starshine"
+"badge_star"
+"badge_star_sel"
+"legend"
+"badge_legend"
+"badge_legend_sel"
+"Publish 10 works"
+"Received 20 likes"
+"Gained 10 followers"
+"common_back"
+"badge_title"
+"#C890F7"
+"Remaining"
+"#E6C9FF"
+"#C890F7"
+"energy"
+"#C890F7"
+"init(coder:) has not been implemented"
+"badge_bubble"
+"#F1F1F1"
+"#010101"
+"post_temp"
+"home_top"
+"StreetStreet"
+"#FED9FA"
+"init(coder:) has not been implemented"
+"Friends"
+"Fan"
+"#E8E8E8"
+"person_more"
+"init(coder:) has not been implemented"
+"EPSheetCell"
+"init(coder:) has not been implemented"
+"#C890F7"
+"shop_coin"
+"init(coder:) has not been implemented"
+"person_menuBg"
+"fan_follow"
+"follow_follow"
+"person_video"
+"person_chat"
+"init(coder:) has not been implemented"
+"post_temp"
+"home_top"
+"Marceline"
+"#FED9FA"
+"init(coder:) has not been implemented"
+"Follow"
+"Fan"
+"#AAAAAA"
+"#AAAAAA"
+"#E8E8E8"
+"profile_setting"
+"profile_edit"
+"profile_shop"
+"profile_achive"
+"release"
+"Like"
+"init(coder:) has not been implemented"
+"black_title"
+"fan_title"
+"follow_title"
+"black_cancel"
+"follow_follow"
+"follow_follow"
+"fan_follow"
+"EPLocalCell"
+"init(coder:) has not been implemented"
+"#F5F3FF"
+"init(coder:) has not been implemented"
+"Please sign in before purchasing."
+"Purchase successful!"
+"common_back"
+"shop_title"
+"#A591F2"
+"shop_coin"
+"Remaining"
+"#FF6A6A"
+"It can be used to post your moments and frustrations."
+"shop_comfirm"
+"wizfeedback@gmail.com"
+"init(coder:) has not been implemented"
+"mailto:"
+"Email copied"
+"common_back"
+"Contact Us"
+"If you have any questions, suggestions, or feedback, please contact us at:"
+"#333333"
+"#A591F2"
+"Copy Email"
+"post_temp"
+"#F8D4E8"
+"init(coder:) has not been implemented"
+"common_back"
+"init(coder:) has not been implemented"
+"common_back"
+"post_temp"
+"home_top"
+"The non"
+"How's my outfit?How's my outfit?How's my outfit?"
+"post_temp"
+"home_top"
+"The non"
+"How's my outfit?How's my outfit?How's my outfit?"
+"post_temp"
+"home_top"
+"Wren"
+"How's my outfit?How's my outfit?How's my outfit?"
+"setting_contact"
+"setting_policy"
+"setting_guide"
+"setting_black"
+"setting_out"
+"setting_del"
+"init(coder:) has not been implemented"
+"Delete Account"
+"This will permanently delete your account and all related data, including posts, chats, follows, blocks, and likes. This action cannot be undone."
+"Cancel"
+"Delete"
+"Failed to delete account. Please try again."
+"OK"
+"common_back"
+"setting_title"
+"https://docs.google.com/document/d/1rr4JRUudtCqCO8ey8Letm27G90eksmuaNYKaCS8UVUo/edit?usp=sharing"
+"https://docs.google.com/document/d/1KjySwNvKO02TxihyZsO4LtVvomwdT4OX6NF00F8Pv0E/edit?usp=sharing"
+"EPNewsDataCell"
+"init(coder:) has not been implemented"
+"home_top"
+"Marceline"
+"init(coder:) has not been implemented"
+"OK"
+"Please enter a nickname."
+"Failed to save profile. Please try again."
+"common_back"
+"#A591F2"
+"edit_pic"
+"NickName"
+"Enter a new name"
+"#C4C4C4"
+"edit_revise"
+"init(coder:) has not been implemented"
+"common_back"
+"home_like"
+"home_liked"
+"post_more"
+"EPVoiceCell"
+"init(coder:) has not been implemented"
+"home_play"
+"EPFeedScreenView"
+"home_top"
+"home_title"
+"home_outfit"
+"home_push"
+"init(coder:) has not been implemented"
+"EPGroupBaseCell"
+"init(coder:) has not been implemented"
+"home_like"
+"home_liked"
+"init(coder:) has not been implemented"
+"bg_02"
+"common_back"
+"challenge_title"
+"challenge_fire"
+"challenge_release"
+"post_temp"
+"bg_02"
+"EPSettingCell"
+"init(coder:) has not been implemented"
+"Delete Post"
+"Are you sure you want to delete this post?"
+"Cancel"
+"Delete"
+"post_chat"
+"home_like"
+"home_liked"
+"post_more"
+"EPModityInfoCell"
+"init(coder:) has not been implemented"
+"EPReleaseNewsCell"
+"init(coder:) has not been implemented"
+"room_join"
+"EPLoginCell"
+"init(coder:) has not been implemented"
+"init(coder:) has not been implemented"
+"EPRankCell"
+"init(coder:) has not been implemented"
+"init(coder:) has not been implemented"
+"Enter what you want to send"
+"detail_send"
+"init(coder:) has not been implemented"
+"post_chat"
+"home_like"
+"home_liked"
+"post_more"
+"home_play"
+"comment"
+"init(coder:) has not been implemented"
+"c_"
+"Just now"
+"Comment posted successfully."
+"common_back"
+"detail_title"
+"Please enter your content first."
+"Please add a photo or video."
+"You need at least 10 coins. Please recharge first."
+"Failed to publish. Please try again."
+"Posted successfully!"
+"init(coder:) has not been implemented"
+"post_"
+"post_temp"
+"common_back"
+"release_title"
+"Tell me about your troubles."
+"#999999"
+"release_add"
+"Unlocking dynamic posting costs 10 gold coins."
+"#999999"
+"release_button"
+"release_add"
+"Hello, is there anything you'd like to tell me?"
+"I'm here to listen. Take your time."
+"Thank you for sharing that with me."
+"I hear you. How does that make you feel?"
+"That sounds important. Would you like to say more?"
+"You're not alone in this. I'm glad you reached out."
+"It's okay to feel that way. Your feelings are valid."
+"Let's take it one step at a time together."
+"I appreciate you opening up to me."
+"Sometimes talking helps. Keep going if you'd like."
+"I'm with you. What happened next?"
+"ai_icon"
+"init(coder:) has not been implemented"
+"ai_icon"
+"home_top"
+"ai_icon"
+"common_back"
+"ai_title"
+"r001"
+"chat_01"
+"Dating outfits"
+"avatar_01"
+"avatar_02"
+"avatar_03"
+"avatar_04"
+"r002"
+"chat_02"
+"Cos Talk Zone"
+"avatar_02"
+"avatar_03"
+"avatar_04"
+"r003"
+"chat_03"
+"Cos Corner"
+"avatar_01"
+"avatar_04"
+"avatar_05"
+"r004"
+"chat_04"
+"Fandom Hangout"
+"avatar_03"
+"avatar_06"
+"r005"
+"chat_05"
+"Cos Corner"
+"avatar_02"
+"avatar_05"
+"avatar_07"
+"r006"
+"chat_06"
+"Item Chat"
+"avatar_04"
+"avatar_08"
+"avatar_09"
+"avatar_10"
+"init(coder:) has not been implemented"
+"common_back"
+"room_title"
+"Welcome to %@, please use the civilized language, release any vulgar, fraudulent, illegal Information will be banned account."
+"Hey everyone! Glad to join the group!"
+"Hi all! Excited to chat with you today."
+"Hello! Nice to meet everyone here."
+"Welcome me in — happy to be part of this room!"
+"Hey! Looking forward to some fun conversations."
+"Hi! Hope everyone is having a great day."
+"Hello friends! Ready for a good chat?"
+"So happy to find this group — let's talk!"
+"Hey there! Anyone want to share what they're up to?"
+"Hi! Just joined — say hi if you see this!"
+"Hello everyone! What's the vibe in here today?"
+"Great to be here! Feel free to introduce yourselves."
+"Hey! I love this topic — can't wait to discuss."
+"Hi all! Any recommendations for newcomers?"
+"Hello! Let's keep things friendly and fun."
+"Nice room! Happy to hang out with you all."
+"Hey everyone! Who's online right now?"
+"Hi! Dropping in to say hello to the group."
+"Hello! Hope we can all get along and chat more."
+"Glad I joined — looking forward to meeting you!"
+"Victoria"
+"Emma"
+"Sophia"
+"Chloe"
+"Mia"
+"Lily"
+"Grace"
+"Zoe"
+"init(coder:) has not been implemented"
+"Me"
+"Community Guidelines"
+"OK"
+"Leave Group"
+"Are you sure you want to leave this group chat?"
+"Cancel"
+"Leave"
+"group_bg"
+"common_back"
+"group_alert"
+"group_out"
+"bg_02"
+"post_title"
+"post_release"
+"post_ai"
+"post_cosplay"
+"EPMenuCell"
+"init(coder:) has not been implemented"
+"#FF3B30"
+"EPReportCell"
+"init(coder:) has not been implemented"
+"ai_icon"
+"#DED4F7"
+"#C890F7"
+"#B8A4F5"
+"EPFeedInfoCell"
+"init(coder:) has not been implemented"
+"#F5F3FF"
+"friend_chat"
+"friend_follow"
+"friend_followed"
+"room_card"
+"room_video"
+"room_more"
+"init(coder:) has not been implemented"
+"init(coder:) has not been implemented"
+"opacity"
+"pulse"
+"init(coder:) has not been implemented"
+"You must be friends to start a chat."
+"video_mic_off"
+"video_video_off"
+"common_back"
+"video_reverse"
+"video_mic"
+"video_video"
+"video_off"
+"init(coder:) has not been implemented"
+"Block User"
+"Block this user and delete all chat history?"
+"Cancel"
+"Block"
+"common_back"
+"You must be friends to start a chat."
+"init(coder:) has not been implemented"
+"common_back"
+"chat_del"
+"#FF3B30"
+"bg_02"
+"chat_title"
+"chat_friend"
+"chat_follow"
+"chat_infor"
+"chat_del"
+"#FF3B30"
+"bg_01"
+"UITabBarButton"
+"tab_home"
+"tab_post"
+"tab_chat"
+"tab_profile"
+"tabBar"
+"init(coder:) has not been implemented"
+"#F8D4E8"
+"launch_bg"
+"report_porn"
+"report_verbal"
+"report_relig"
+"report_content"
+"report_gender"
+"report_block"
+"transform.translation.x"
+"shake"
+"#010101"
+"report_close"
+"report_comfirm"
+"ep_chat_conversations.json"
+"rank_01"
+"rank_01"
+"Princess appears"
+"rank_02"
+"rank_02"
+"I want to climb the rankings"
+"rank_03"
+"rank_03"
+"How about this?"
+"rank_04"
+"rank_04"
+"it's been a long time since I dressed up."
+"rank_05"
+"rank_05"
+"What do you all think?"
+"rank_06"
+"rank_06"
+"Likes likes"
+"rank_07"
+"rank_07"
+"2h makeup, 5min photos."
+"rank_08"
+"rank_08"
+"It took a long time"
+"ep_challenge_liked_"
+"u_test"
+"test@gmail.com"
+"123456"
+"ep_local_database.json"
+"ep_is_logged_in"
+"ep_current_user_id"
+"ep_migrated_liked_post_ids_v1"
+"Test"
+"avatar_05"
+"u001"
+"u002"
+"u001"
+"u002"
+"u003"
+"u004"
+"p_test_01"
+"Test"
+"avatar_05"
+"post_temp"
+"friend_01"
+"How's my outfit?How's my outfit?How's my outfit?"
+"p_test_02"
+"Test"
+"avatar_05"
+"post_temp"
+"video_02"
+"My first post here."
+"c_seed"
+"u004"
+"Nana"
+"avatar_03"
+"I think I saw you an hour ago."
+"Two hours ago"
+"c_seed2"
+"u001"
+"Marce"
+"avatar_01"
+"I'm so excited!"
+"An hour ago"
+"c_seed3"
+"u003"
+"Thom"
+"avatar_04"
+"I love your outfit!"
+"15 minutes ago"
+"c_seed4"
+"u002"
+"Street"
+"avatar_02"
+"The scene was so much fun!"
+"Just now"
+"c_seed5"
+"u002"
+"Street"
+"avatar_02"
+"I hope to see you there next time."
+"2026-05-17"
+"post_temp"
+"u001"
+"Marce"
+"avatar_01"
+"p001"
+"u001"
+"Marce"
+"avatar_01"
+"How's my outfit?How's my outfit?"
+"friend_04"
+"p002"
+"u001"
+"Marce"
+"avatar_01"
+"Pink vibes today."
+"video_04"
+"u002"
+"Street"
+"avatar_02"
+"p003"
+"u002"
+"Street"
+"avatar_02"
+"Street style check."
+"friend_02"
+"p004"
+"u002"
+"Street"
+"avatar_02"
+"New cosplay wip."
+"video_01"
+"u003"
+"Thom"
+"avatar_04"
+"p005"
+"u003"
+"Thom"
+"avatar_04"
+"Do you like my cosplay outfit?"
+"friend_03"
+"p008"
+"u003"
+"Thom"
+"avatar_04"
+"I'm about to go on stage, I'm so nervous!"
+"video_06"
+"u004"
+"Nana"
+"avatar_03"
+"p006"
+"u004"
+"Nana"
+"avatar_04"
+"He's so handsome! I love him so much! Does anyone know who he is? I really want his contact information~"
+"friend_05"
+"p007"
+"u004"
+"Nana"
+"avatar_03"
+"Thanks for all the likes!"
+"video_03"
+"0X"
+"#"
+"PublishedPostMedia"
+"p_"
+"v_"
+"jpg"
+"jpeg"
+"png"
+"mp4"
+"mov"
+"m4v"
+"yyyy-MM-dd HH:mm:ss"
+"en_US_POSIX"
+"GMT"
+"yyyy-MM-dd'T'HH:mm:ss.SSS"
+"Z"
+"Camera Access Required"
+"Please enable camera access in Settings to start a video call."
+"Cancel"
+"Settings"
+"UserAvatars"
+"av_"
+"av_"
+"jpg"
+"jpeg"
+"png"
+"/"
+"p_"
+"/"
+"UserVoices"
+"uv_"
+"uv_"
+"^(?:[\\p{L}0-9!#$%\\&'*+/=?\\^_`{|}~-]+(?:\\.[\\p{L}0-9!#$%\\&'*+/=?\\^_`{|}~-]+)*|\"(?:[\\x01-\\x08\\x0b\\x0c\\x0e-\\x1f\\x21\\x23-\\x5b\\x5d-\\x7f]|\\\\[\\x01-\\x09\\x0b\\x0c\\x0e-\\x7f])*\")@(?:(?:[\\p{L}0-9](?:[a-z0-9-]*[\\p{L}0-9])?\\.)+[\\p{L}0-9](?:[\\p{L}0-9-]*[\\p{L}0-9])?|\\[(?:(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\\.){3}(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?|[\\p{L}0-9-]*[\\p{L}0-9]:(?:[\\x01-\\x08\\x0b\\x0c\\x0e-\\x1f\\x21-\\x5a\\x53-\\x7f]|\\\\[\\x01-\\x09\\x0b\\x0c\\x0e-\\x7f])+)\\])$"
+"0001-01-01"
+"yyyy-MM-dd"
+"Resource/Chat"
+"Chat"
+"jpg"
+"jpeg"
+"png"
+"Resource/Rank"
+"Rank"
+"jpg"
+"jpeg"
+"png"
+"Resource/Friend"
+"Friend"
+"jpg"
+"jpeg"
+"png"
+"Resource/Post"
+"Post"
+"jpg"
+"jpeg"
+"png"
+"Resource/Video"
+"Video"
+"mp4"
+"mov"
+"m4v"
+"Resource/Avatar"
+"Avatar"
+"jpg"
+"jpeg"
+"png"
+"Resource/Voice"
+"Voice"
+"mp3"
+"m4a"
+"wav"
+"caf"
+"AppLanguage"
+"en"
+"🌐 [EPEnergyLocalization] 设置语言: "
+"🌐 [EPEnergyLocalization] 之前的语言: "
+"AppLanguage"
+"AppLanguage"
+"🌐 [EPEnergyLocalization] 语言已保存: "
+"❌ [EPEnergyLocalization] 语言保存失败！"
+"🌐 [EPEnergyLocalization] 已发送语言变更通知"
+"ar"
+"العربية"
+"en"
+"English"
+"es"
+"Español"
+"fr"
+"Français"
+"hi"
+"हिंदी"
+"ja"
+"日本語"
+"ko"
+"한국어"
+"pt"
+"Português"
+"vi"
+"Tiếng Việt"
+"ru"
+"Русский"
+"Base"
+"lproj"
+"⚠️ [EPEnergyLocalization] 找不到语言 bundle 路径: "
+"⚠️ [EPEnergyLocalization] 使用默认本地化: key="
+"⚠️ [EPEnergyLocalization] 无法创建 bundle: "
+"⚠️ [EPEnergyLocalization] 未找到本地化字符串: key="
+"LanguageChanged"
+"10001"
+"Marceline"
+"home_top"
+"post_temp"
+"badge_legend_sel"
+"badge_star_sel"
+"badge_dimen_sel"
+"MMMM d, yyyy"
+"name_"
+"c001"
+"10002"
+"Nana"
+"home_top"
+"An hour agoAn hour agoAn hour agoAn hour agoAn hour ago"
+"An hour ago"
+"post_temp"
+"post_temp"
+"p001"
+"10003"
+"The non"
+"home_top"
+"post_temp"
+"friend_01"
+"How's my outfit?How's my outfit?How's my outfit?How's my outfit?"
+"slhpvfyqhldwdyuw"
+"$0.99"
+"afokknudeqiofeuz"
+"$1.99"
+"ssjeyeudteemclbj"
+"$4.99"
+"khnylxhdbrnxlnpa"
+"$9.99"
+"pkdxjrwkmgruiaat"
+"$19.99"
+"eouqaamferzbudxb"
+"$49.99"
+"wwhpiqcxfyrywcm0"
+"$99.99"
+"Product is not available. Please try again later."
+"Purchase verification failed."
+"Please sign in before purchasing."
+"Failed to update your balance."
+"ep_iap_processed_transaction_ids"
+"https://api.fiveukmedia.xyz"
+"Invalid request URL."
+"Invalid server response."
+"Request failed ("
+"Empty response data."
+"Failed to parse response."
+"/hua/pl"
+"https://www.youtube.com/shorts/Edtnh6iwglw"
+"GET"
+"application/json"
+"Accept"
+"lan"
+"common_empty"
+"No data available"
+"#666666"
+"init(coder:) has not been implemented"
+"ep_is_logged_in"
+"ep_current_user_id"
+"apple_"
+"Apple User"
+"avatar_01"
+"u_"
+
+
+开始融合并调用生成的垃圾代码文件函数或者类。。。。。。。
+100%👌
+
+开始扰乱改变函数里面执行顺序。。。。。。。
+100%👌
+
+
+开始插入混淆函数并在现有函数体里面自动插入混淆函数调用语句。。。。。。。
+100%👌
+
+
+开始自动插入头文件混淆函数定义语句。。。。。。。
+100%👌
+
+
+开始生成新混淆源文件。。。。。。。
+100%👌
+
+
+开始自动更新项目配置。。。。。。。
+100%👌

@@ -1,0 +1,36 @@
+克隆项目路径：/Users/a0000/Desktop/EmtionPlay
+
+原目录：EmtionPlay --> 新目录：EPEmtionPlay
+原目录：Features --> 新目录：EPFeatures
+原目录：Home --> 新目录：EPHome
+原目录：Views --> 新目录：EPViews
+原目录：Post --> 新目录：EPPost
+原目录：Chat --> 新目录：EPChat
+原目录：Profile --> 新目录：EPProfile
+原目录：Login --> 新目录：EPLogin
+原目录：Common --> 新目录：EPCommon
+原目录：Ex --> 新目录：EPEx
+原目录：Model --> 新目录：EPModel
+原目录：Report --> 新目录：EPReport
+原目录：Data --> 新目录：EPData
+原目录：Resource --> 新目录：EPResource
+原目录：Video --> 新目录：EPVideo
+原目录：Friend --> 新目录：EPFriend
+原目录：Avatar --> 新目录：EPAvatar
+原目录：Rank --> 新目录：EPRank
+原目录：Base --> 新目录：EPBase
+开始生成项目依赖配置信息:
+/Users/a0000/Desktop/whc_clone_directory/EPEmtionPlay/EmtionPlay.xcodeproj/project.pbxproj
+
+........................
+
+生成配置信息完成
+开始生成项目依赖配置信息:
+/Users/a0000/Desktop/whc_clone_directory/EPEmtionPlay/Pods/Pods.xcodeproj/project.pbxproj
+
+.............................................................................................................................................................................................................................................................................................................................................
+
+生成配置信息完成
+
+
+克隆项目完成✌️

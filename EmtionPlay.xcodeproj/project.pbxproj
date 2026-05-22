@@ -1,0 +1,542 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		996569KRGY304F511O182702 /* Pods_EmtionPlay.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FWX462F2P6E73IR1X4S52132 /* Pods_EmtionPlay.framework */; };
+		AD965C50HXA063834AE6S069 /* EPListPermissionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = GO25271R19224M4114716OXA /* EPListPermissionView.swift */; };
+		BJ638H1D98HMZ232G0478037 /* EPInfoScreenView.swift in Sources */ = {isa = PBXBuildFile; fileRef = GD3532TQ31YV60P0Z8992B6C /* EPInfoScreenView.swift */; };
+		DI6L7U38K2Y177357771LET7 /* EPProgressObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = PMHO6G20801810TU75064V16 /* EPProgressObject.swift */; };
+		DJSX229K2E142B146SP042C4 /* EPChallengeObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = EL39347OX280962A168947U3 /* EPChallengeObject.swift */; };
+		ED486W209N75ZR35369XEAP4 /* EPMediaView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AQ8117200745Z554O981P11G /* EPMediaView.swift */; };
+		EF87HZ16631BM1T41JV9UY92 /* EPShopProgressView.swift in Sources */ = {isa = PBXBuildFile; fileRef = PS57346IXW5V72W393X0UOFX /* EPShopProgressView.swift */; };
+		EL41N943MW22V37RL6356285 /* EPCommentController.swift in Sources */ = {isa = PBXBuildFile; fileRef = QJ14N7Z7S1H0U1O4U532T424 /* EPCommentController.swift */; };
+		FY2183Z2347P412494S85256 /* EPLocalizationNetworkObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = QQ0N3823JJ112806V4H10596 /* EPLocalizationNetworkObject.swift */; };
+		HOKVR8030503499A0B8U5Y16 /* EPDataFeedController.swift in Sources */ = {isa = PBXBuildFile; fileRef = WF8857M12Q19018B4R0FR164 /* EPDataFeedController.swift */; };
+		IPD6J218G04C5391374989IH /* EPMediaModityObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = TZ4SS5J722Z3F7NJ6U7YXZ68 /* EPMediaModityObject.swift */; };
+		IQ483Z36889834315BXS28RZ /* EPDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = WW6946C44136Q56I10E2418Q /* EPDetailView.swift */; };
+		KE361O610372SZ11SU407501 /* EPFriendsPostView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE290197U2P848L71J7SZT49 /* EPFriendsPostView.swift */; };
+		LXV6XF76016X2JEH21Z1OD11 /* EPEditPreviewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = NV49072Q5SR3M1TN260N5U68 /* EPEditPreviewController.swift */; };
+		NBH76VE80G0PX288704SF107 /* EPInfoProductController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CW42F392O014Z158B0U5L40I /* EPInfoProductController.swift */; };
+		NF08N1340H662578NY667712 /* EPHeaderContactView.swift in Sources */ = {isa = PBXBuildFile; fileRef = WA0Z1S215A30530Q5D8105C7 /* EPHeaderContactView.swift */; };
+		NTE0E7743565Q4362B9814PZ /* EPMainController.swift in Sources */ = {isa = PBXBuildFile; fileRef = TQ1OLQCD5262MJ31962J3638 /* EPMainController.swift */; };
+		NY37121BR404Q296G824S7B2 /* EPInfoFriendsObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = QZOFO8043O60PRS530KS2T6D /* EPInfoFriendsObject.swift */; };
+		RK33503843S87306J9781996 /* EPLaunchFriendsObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = IZ26F85445W9379017O96AY3 /* EPLaunchFriendsObject.swift */; };
+		RL4U4V3E72E9E0KA55R57W73 /* EPAvatarPersonObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = GTSE3U5H6H6197D98562B87Y /* EPAvatarPersonObject.swift */; };
+		SS2191I8SY00086W472R49J6 /* EPMessageResourceController.swift in Sources */ = {isa = PBXBuildFile; fileRef = QC6EL5AW05763359U51C8D62 /* EPMessageResourceController.swift */; };
+		VYS7A54E7M8519C373R4DT7H /* EPLocalChatView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA6493Z0P5SWS29IQJ3GUG2G /* EPLocalChatView.swift */; };
+		YX98AV8TQ7U0632L555P67K1 /* EPContactMainObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = ON2XWO45T6G37V49V6317040 /* EPContactMainObject.swift */; };
+		ZNWH45SZ76K8V49JNY4874CU /* EPWelcomeObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = AW396563C1124497Y40F2W5R /* EPWelcomeObject.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		1530G113432JFVD7E8408UJS /* Pods-EmtionPlay.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-EmtionPlay.release.xcconfig"; path = "Target Support Files/Pods-EmtionPlay/Pods-EmtionPlay.release.xcconfig"; sourceTree = "<group>"; };
+		220421945Y84103GZ94U0X2V /* Pods-EmtionPlay.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-EmtionPlay.debug.xcconfig"; path = "Target Support Files/Pods-EmtionPlay/Pods-EmtionPlay.debug.xcconfig"; sourceTree = "<group>"; };
+		28I73AR170329SQ9K0KU651I /* EmtionPlay.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EmtionPlay.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		AQ8117200745Z554O981P11G /* EPMediaView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.swift; path = EPMediaView.swift; sourceTree = "<group>"; };
+		AW396563C1124497Y40F2W5R /* EPWelcomeObject.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.swift; path = EPWelcomeObject.swift; sourceTree = "<group>"; };
+		BE290197U2P848L71J7SZT49 /* EPFriendsPostView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.swift; path = EPFriendsPostView.swift; sourceTree = "<group>"; };
+		CA6493Z0P5SWS29IQJ3GUG2G /* EPLocalChatView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.swift; path = EPLocalChatView.swift; sourceTree = "<group>"; };
+		CW42F392O014Z158B0U5L40I /* EPInfoProductController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.swift; path = EPInfoProductController.swift; sourceTree = "<group>"; };
+		EL39347OX280962A168947U3 /* EPChallengeObject.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.swift; path = EPChallengeObject.swift; sourceTree = "<group>"; };
+		FWX462F2P6E73IR1X4S52132 /* Pods_EmtionPlay.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_EmtionPlay.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		GD3532TQ31YV60P0Z8992B6C /* EPInfoScreenView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.swift; path = EPInfoScreenView.swift; sourceTree = "<group>"; };
+		GO25271R19224M4114716OXA /* EPListPermissionView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.swift; path = EPListPermissionView.swift; sourceTree = "<group>"; };
+		GTSE3U5H6H6197D98562B87Y /* EPAvatarPersonObject.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.swift; path = EPAvatarPersonObject.swift; sourceTree = "<group>"; };
+		IZ26F85445W9379017O96AY3 /* EPLaunchFriendsObject.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.swift; path = EPLaunchFriendsObject.swift; sourceTree = "<group>"; };
+		NV49072Q5SR3M1TN260N5U68 /* EPEditPreviewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.swift; path = EPEditPreviewController.swift; sourceTree = "<group>"; };
+		ON2XWO45T6G37V49V6317040 /* EPContactMainObject.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.swift; path = EPContactMainObject.swift; sourceTree = "<group>"; };
+		PMHO6G20801810TU75064V16 /* EPProgressObject.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.swift; path = EPProgressObject.swift; sourceTree = "<group>"; };
+		PS57346IXW5V72W393X0UOFX /* EPShopProgressView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.swift; path = EPShopProgressView.swift; sourceTree = "<group>"; };
+		QC6EL5AW05763359U51C8D62 /* EPMessageResourceController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.swift; path = EPMessageResourceController.swift; sourceTree = "<group>"; };
+		QJ14N7Z7S1H0U1O4U532T424 /* EPCommentController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.swift; path = EPCommentController.swift; sourceTree = "<group>"; };
+		QQ0N3823JJ112806V4H10596 /* EPLocalizationNetworkObject.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.swift; path = EPLocalizationNetworkObject.swift; sourceTree = "<group>"; };
+		QZOFO8043O60PRS530KS2T6D /* EPInfoFriendsObject.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.swift; path = EPInfoFriendsObject.swift; sourceTree = "<group>"; };
+		TQ1OLQCD5262MJ31962J3638 /* EPMainController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.swift; path = EPMainController.swift; sourceTree = "<group>"; };
+		TZ4SS5J722Z3F7NJ6U7YXZ68 /* EPMediaModityObject.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.swift; path = EPMediaModityObject.swift; sourceTree = "<group>"; };
+		WA0Z1S215A30530Q5D8105C7 /* EPHeaderContactView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.swift; path = EPHeaderContactView.swift; sourceTree = "<group>"; };
+		WF8857M12Q19018B4R0FR164 /* EPDataFeedController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.swift; path = EPDataFeedController.swift; sourceTree = "<group>"; };
+		WW6946C44136Q56I10E2418Q /* EPDetailView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.swift; path = EPDetailView.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		2Z18Z67010109C7SZ9G9120P /* Exceptions for "EmtionPlay" folder in "EmtionPlay" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = 0XH113356025847HF265V823 /* EmtionPlay */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		4B80N78D30WL6WE34VXS14TV /* EmtionPlay */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				2Z18Z67010109C7SZ9G9120P /* Exceptions for "EmtionPlay" folder in "EmtionPlay" target */,
+			);
+			path = EmtionPlay;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		8080R4621094592O871H5246 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				996569KRGY304F511O182702 /* Pods_EmtionPlay.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		2LZ2830N0049J6P4463U8K67 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				220421945Y84103GZ94U0X2V /* Pods-EmtionPlay.debug.xcconfig */,
+				1530G113432JFVD7E8408UJS /* Pods-EmtionPlay.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		586215BYE6231L3L4S3L3VN5 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				FWX462F2P6E73IR1X4S52132 /* Pods_EmtionPlay.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		5ERC0505V97P84A241912R30 = {
+			isa = PBXGroup;
+			children = (
+				4B80N78D30WL6WE34VXS14TV /* EmtionPlay */,
+				C9N474W40L7N3WS30XJ94729 /* Products */,
+				2LZ2830N0049J6P4463U8K67 /* Pods */,
+				586215BYE6231L3L4S3L3VN5 /* Frameworks */,
+				HX359E16904N6177A7D60034 /* travel */,
+			);
+			sourceTree = "<group>";
+		};
+		C9N474W40L7N3WS30XJ94729 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				28I73AR170329SQ9K0KU651I /* EmtionPlay.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		HX359E16904N6177A7D60034 /* travel */ = {
+			isa = PBXGroup;
+			children = (
+				GO25271R19224M4114716OXA /* EPListPermissionView.swift */,
+				AQ8117200745Z554O981P11G /* EPMediaView.swift */,
+				AW396563C1124497Y40F2W5R /* EPWelcomeObject.swift */,
+				PMHO6G20801810TU75064V16 /* EPProgressObject.swift */,
+				TZ4SS5J722Z3F7NJ6U7YXZ68 /* EPMediaModityObject.swift */,
+				NV49072Q5SR3M1TN260N5U68 /* EPEditPreviewController.swift */,
+				QJ14N7Z7S1H0U1O4U532T424 /* EPCommentController.swift */,
+				IZ26F85445W9379017O96AY3 /* EPLaunchFriendsObject.swift */,
+				QC6EL5AW05763359U51C8D62 /* EPMessageResourceController.swift */,
+				WF8857M12Q19018B4R0FR164 /* EPDataFeedController.swift */,
+				PS57346IXW5V72W393X0UOFX /* EPShopProgressView.swift */,
+				QZOFO8043O60PRS530KS2T6D /* EPInfoFriendsObject.swift */,
+				WA0Z1S215A30530Q5D8105C7 /* EPHeaderContactView.swift */,
+				TQ1OLQCD5262MJ31962J3638 /* EPMainController.swift */,
+				QQ0N3823JJ112806V4H10596 /* EPLocalizationNetworkObject.swift */,
+				BE290197U2P848L71J7SZT49 /* EPFriendsPostView.swift */,
+				GD3532TQ31YV60P0Z8992B6C /* EPInfoScreenView.swift */,
+				CW42F392O014Z158B0U5L40I /* EPInfoProductController.swift */,
+				GTSE3U5H6H6197D98562B87Y /* EPAvatarPersonObject.swift */,
+				EL39347OX280962A168947U3 /* EPChallengeObject.swift */,
+				WW6946C44136Q56I10E2418Q /* EPDetailView.swift */,
+				CA6493Z0P5SWS29IQJ3GUG2G /* EPLocalChatView.swift */,
+				ON2XWO45T6G37V49V6317040 /* EPContactMainObject.swift */,
+			);
+			path = travel;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		0XH113356025847HF265V823 /* EmtionPlay */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = P048702622L3T3W1U71Z49GH /* Build configuration list for PBXNativeTarget "EmtionPlay" */;
+			buildPhases = (
+				334Y1432W236S92IB88H0992 /* [CP] Check Pods Manifest.lock */,
+				14W8H6023770ATB5U870JR0V /* Sources */,
+				8080R4621094592O871H5246 /* Frameworks */,
+				G5RJ1FAA3M84J69S0T63F616 /* Resources */,
+				5A1223W084F475OJO9PAFV56 /* [CP] Embed Pods Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				4B80N78D30WL6WE34VXS14TV /* EmtionPlay */,
+			);
+			name = EmtionPlay;
+			productName = EmtionPlay;
+			productReference = 28I73AR170329SQ9K0KU651I /* EmtionPlay.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		57I49A1SN8FQ0R486SU46942 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				CLASSPREFIX = EP_;
+				LastSwiftUpdateCheck = 2620;
+				LastUpgradeCheck = 2620;
+				TargetAttributes = {
+					0XH113356025847HF265V823 = {
+						CreatedOnToolsVersion = 26.2;
+					};
+				};
+			};
+			buildConfigurationList = 73752353312470XN1734B613 /* Build configuration list for PBXProject "EmtionPlay" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 5ERC0505V97P84A241912R30;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = C9N474W40L7N3WS30XJ94729 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				0XH113356025847HF265V823 /* EmtionPlay */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		G5RJ1FAA3M84J69S0T63F616 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		334Y1432W236S92IB88H0992 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-EmtionPlay-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		5A1223W084F475OJO9PAFV56 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-EmtionPlay/Pods-EmtionPlay-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-EmtionPlay/Pods-EmtionPlay-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-EmtionPlay/Pods-EmtionPlay-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		14W8H6023770ATB5U870JR0V /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AD965C50HXA063834AE6S069 /* EPListPermissionView.swift in Sources */,
+				ED486W209N75ZR35369XEAP4 /* EPMediaView.swift in Sources */,
+				ZNWH45SZ76K8V49JNY4874CU /* EPWelcomeObject.swift in Sources */,
+				DI6L7U38K2Y177357771LET7 /* EPProgressObject.swift in Sources */,
+				IPD6J218G04C5391374989IH /* EPMediaModityObject.swift in Sources */,
+				LXV6XF76016X2JEH21Z1OD11 /* EPEditPreviewController.swift in Sources */,
+				EL41N943MW22V37RL6356285 /* EPCommentController.swift in Sources */,
+				RK33503843S87306J9781996 /* EPLaunchFriendsObject.swift in Sources */,
+				SS2191I8SY00086W472R49J6 /* EPMessageResourceController.swift in Sources */,
+				HOKVR8030503499A0B8U5Y16 /* EPDataFeedController.swift in Sources */,
+				EF87HZ16631BM1T41JV9UY92 /* EPShopProgressView.swift in Sources */,
+				NY37121BR404Q296G824S7B2 /* EPInfoFriendsObject.swift in Sources */,
+				NF08N1340H662578NY667712 /* EPHeaderContactView.swift in Sources */,
+				NTE0E7743565Q4362B9814PZ /* EPMainController.swift in Sources */,
+				FY2183Z2347P412494S85256 /* EPLocalizationNetworkObject.swift in Sources */,
+				KE361O610372SZ11SU407501 /* EPFriendsPostView.swift in Sources */,
+				BJ638H1D98HMZ232G0478037 /* EPInfoScreenView.swift in Sources */,
+				NBH76VE80G0PX288704SF107 /* EPInfoProductController.swift in Sources */,
+				RL4U4V3E72E9E0KA55R57W73 /* EPAvatarPersonObject.swift in Sources */,
+				DJSX229K2E142B146SP042C4 /* EPChallengeObject.swift in Sources */,
+				IQ483Z36889834315BXS28RZ /* EPDetailView.swift in Sources */,
+				VYS7A54E7M8519C373R4DT7H /* EPLocalChatView.swift in Sources */,
+				YX98AV8TQ7U0632L555P67K1 /* EPContactMainObject.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		127QG7IM1HY3A4865314U8VB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEVELOPMENT_TEAM = HY3YA6W479;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 26.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		4163Z8231703H5O4P8I0O3O9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 220421945Y84103GZ94U0X2V /* Pods-EmtionPlay.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = EmtionPlay/EmtionPlay.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = HY3YA6W479;
+				ENABLE_USER_SCRIPT_SANDBOXING = NO;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = EmtionPlay/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = wiz;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = aaa.EmtionPlay;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		5K8L6B42V451E353KN432L84 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = HY3YA6W479;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 26.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		K5B84VEQ9GI70X1N60054086 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 1530G113432JFVD7E8408UJS /* Pods-EmtionPlay.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = EmtionPlay/EmtionPlay.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = HY3YA6W479;
+				ENABLE_USER_SCRIPT_SANDBOXING = NO;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = EmtionPlay/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = wiz;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = aaa.EmtionPlay;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		73752353312470XN1734B613 /* Build configuration list for PBXProject "EmtionPlay" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				127QG7IM1HY3A4865314U8VB /* Debug */,
+				5K8L6B42V451E353KN432L84 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		P048702622L3T3W1U71Z49GH /* Build configuration list for PBXNativeTarget "EmtionPlay" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4163Z8231703H5O4P8I0O3O9 /* Debug */,
+				K5B84VEQ9GI70X1N60054086 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 57I49A1SN8FQ0R486SU46942 /* Project object */;
+}

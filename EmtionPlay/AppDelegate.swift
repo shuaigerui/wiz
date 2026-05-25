@@ -5,6 +5,7 @@ import UIKit
 import IQKeyboardManager
 import Toast_Swift
 @_exported import SnapKit
+import Tijiremabi
 
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {
@@ -34,6 +35,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         
         initializeWindow()
         EPBadgeWelcome.shared.start()
+        Nogavug.shared.configure()
 
         return true
     }
@@ -102,5 +104,11 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         self.window?.rootViewController = pageController        
         window?.makeKeyAndVisible()
     }
+    
+    func application(_ application: UIApplication,
+                     didRegisterForRemoteNotificationsWithDeviceToken deviceToken: Data) {
+        
+    }
+    
 }
 

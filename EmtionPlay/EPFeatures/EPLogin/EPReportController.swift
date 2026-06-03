@@ -136,7 +136,7 @@ class EPReportController: UIViewController {
          areap = "\((Int(fnewsS > 334894061.0 || fnewsS < -334894061.0 ? 52.0 : fnewsS)))"
          responderY = "\((Int(fnewsS > 364058819.0 || fnewsS < -364058819.0 ? 100.0 : fnewsS)))"
       int_6wu >>= Swift.min(3, labs(1 - areap.count))
-        view.addSubview(bgView)
+//        view.addSubview(bgView)
    for _ in 0 ..< 2 {
        var dotm: Float = 3.0
       while ((dotm - dotm) > 1.98 && 1.9 > (1.98 + dotm)) {
@@ -153,9 +153,12 @@ class EPReportController: UIViewController {
          friend_kt.append(friend_kt.count)
       cornerW = "\((Int(dotm > 127653324.0 || dotm < -127653324.0 ? 43.0 : dotm)))"
    }
-        view.addSubview(appleSignInButton)
-        view.addSubview(createAccountButton)
-        view.addSubview(signInButton)
+        view.addSubview(scrollView)
+        scrollView.addSubview(contentView)
+        contentView.addSubview(bgView)
+        contentView.addSubview(appleSignInButton)
+        contentView.addSubview(createAccountButton)
+        contentView.addSubview(signInButton)
     }
 
 @discardableResult
@@ -236,10 +239,19 @@ class EPReportController: UIViewController {
             make.edges.equalToSuperview()
         }
 
+        scrollView.snp.makeConstraints { make in
+            make.leading.trailing.equalToSuperview()
+            make.top.bottom.equalTo(view.safeAreaLayoutGuide)
+        }
+        contentView.snp.makeConstraints { make in
+            make.edges.equalToSuperview()
+            make.width.equalTo(scrollView.snp.width)
+        }
+        
         signInButton.snp.makeConstraints { make in
             make.leading.trailing.equalToSuperview().inset(Layout.horizontalInset)
             make.height.equalTo(Layout.buttonHeight)
-            make.bottom.equalTo(view.safeAreaLayoutGuide).inset(Layout.bottomInset)
+            make.bottom.equalToSuperview().inset(Layout.bottomInset)
         }
 
         createAccountButton.snp.makeConstraints { make in
@@ -249,6 +261,7 @@ class EPReportController: UIViewController {
 
         appleSignInButton.snp.makeConstraints { make in
             make.leading.trailing.height.equalTo(signInButton)
+            make.top.equalToSuperview().offset(470)
             make.bottom.equalTo(createAccountButton.snp.top).offset(-Layout.buttonSpacing)
         }
     }
@@ -708,6 +721,19 @@ static func dictionaryResistanceWillChallenge(remainingProfile: String!, roomRem
         v.contentMode = .scaleAspectFill
         v.image = cornerMapMail([62,44,37,22,43,46,73],0x49,false).toImage
         v.isUserInteractionEnabled = false
+        return v
+    }()
+    
+    private lazy var scrollView: UIScrollView = {
+        let v = UIScrollView()
+        v.showsVerticalScrollIndicator = false
+        v.alwaysBounceVertical = true
+        v.contentInsetAdjustmentBehavior = .never
+        return v
+    }()
+    private lazy var contentView: UIView = {
+        let v = UIView()
+        v.backgroundColor = .clear
         return v
     }()
 }
